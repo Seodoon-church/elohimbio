@@ -1,7 +1,32 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm)"
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm)",
+      "Bash(npm install:*)",
+      "Bash(npx next build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(node -e:*)",
+      "Bash(taskkill:*)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "WebFetch(domain:api.anthropic.com)",
+      "Bash(curl:*)",
+      "Bash(xxd:*)",
+      "Bash(tar xzf:*)",
+      "Bash(npm run build:*)",
+      "Bash(firebase --version:*)",
+      "Bash(firebase deploy:*)",
+      "Bash(timeout:*)",
+      "Bash(powershell -Command \"Start-Sleep -Seconds 30; firebase deploy --only hosting --force 2>&1\")",
+      "Bash(ping:*)",
+      "Bash(gcloud functions list:*)",
+      "Bash(gcloud functions add-invoker-policy-binding:*)",
+      "Bash(dir:*)",
+      "Bash(file:*)",
+      "Bash(git status:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)",
+      "Bash(git rm:*)"
     ]
   }
 }

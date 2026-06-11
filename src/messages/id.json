@@ -1,0 +1,841 @@
+{
+  "common": {
+    "siteName": "Elohim Bio",
+    "siteTagline": "Keajaiban dari Laut Dalam, Disempurnakan dalam Kecambah",
+    "ctaProduct": "Lihat Produk",
+    "ctaInvestor": "Investor IR",
+    "ctaContact": "Hubungi Kami",
+    "ctaLearnMore": "Pelajari Lebih Lanjut",
+    "ctaDownload": "Unduh",
+    "ctaApply": "Daftar Pengalaman",
+    "navAbout": "Tentang Kami",
+    "navTechnology": "Teknologi",
+    "navProducts": "Produk",
+    "navBusiness": "Bisnis",
+    "navBoard": "Papan Informasi",
+    "navIR": "Investor IR",
+    "navContact": "Kontak",
+    "footerPrivacy": "Kebijakan Privasi",
+    "footerCopyright": "© 2025 Elohim Bio. Hak cipta dilindungi.",
+    "footerAddress": "75 Seongju-ro, Janghowon-eup, Icheon-si, Gyeonggi-do",
+    "footerEmail": "info@elohimbio.com",
+    "langSelect": "Bahasa"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Buah dari 30 tahun keahlian",
+      "title": "Keajaiban yang lahir dari laut dalam,\ndisempurnakan dalam satu kecambah",
+      "subtitle": "Ginseng kecambah berkhasiat tinggi, bunga balon dan bawang putih —\nditanam dengan pupuk bio kepiting salju dan metode pertanian inkubator kami",
+      "ctaPrimary": "Jelajahi Produk",
+      "ctaSecondary": "Hubungan Investor",
+      "imageAlt": "Pertanian inkubator Elohim Bio smart farm",
+      "badgeNum": "800×",
+      "badgeLbl": "Ginsenoside F2 vs. ginseng biasa",
+      "scrollCue": "Gulir"
+    },
+    "stats": {
+      "eyebrow": "Elohim Bio dalam Angka",
+      "title": "Teknologi Terbukti, Hasil Terverifikasi",
+      "items": [
+        {
+          "value": 30,
+          "suffix": "thn+",
+          "label": "Tahun penelitian dan pengembangan agri-tech"
+        },
+        {
+          "value": 800,
+          "suffix": "×",
+          "label": "Kandungan Ginsenoside F2\n(vs. ginseng biasa)"
+        },
+        {
+          "value": 4500,
+          "suffix": "t",
+          "label": "Kepiting salju diproses setiap tahun"
+        },
+        {
+          "value": 99,
+          "suffix": "%",
+          "label": "Penyerapan senyawa aktif"
+        }
+      ]
+    },
+    "philosophy": {
+      "eyebrow": "Filosofi Kami",
+      "quote": "Mengapa kami tidak makan akarnya",
+      "body": "Elohim Bio hanya memanen daun dan batang — kecambah — dari ginseng, bunga balon dan bawang putih. Senyawa aktif jauh lebih terkonsentrasi di kecambah daripada di akar, dan tubuh menyerapnya secara dramatis lebih baik. Ini adalah filosofi kami, dan perbedaan kami.",
+      "points": [
+        "Senyawa aktif terkonsentrasi di kecambah, bukan di akar",
+        "Tingkat penyerapan manusia yang jauh lebih tinggi",
+        "Budidaya bebas pestisida, berkelanjutan"
+      ],
+      "tagMain": "Kecambah daripada akar",
+      "tagSub": "Daun dan batang memiliki konten fungsional lebih tinggi"
+    },
+    "potency": {
+      "eyebrow": "Perbandingan Senyawa",
+      "title": "Diferensiasi, terbukti dalam angka",
+      "subtitle": "Kandungan senyawa fungsional yang tidak ada metode konvensional yang dapat mencocokkan — di area tanam yang sama",
+      "note": "* Dibandingkan dengan produk yang ditanam secara konvensional, berdasarkan analisis senyawa internal.",
+      "baseLabel": "normal = 1×",
+      "bars": [
+        {
+          "label": "Ginseng Kecambah",
+          "component": "Ginsenoside F2",
+          "multiplier": 800,
+          "unit": "×",
+          "pct": 100
+        },
+        {
+          "label": "Bunga Balon Kecambah",
+          "component": "Saponin",
+          "multiplier": 600,
+          "unit": "×",
+          "pct": 75
+        },
+        {
+          "label": "Bawang Putih Kecambah",
+          "component": "Allicin",
+          "multiplier": 350,
+          "unit": "×",
+          "pct": 44
+        }
+      ]
+    },
+    "incubator": {
+      "eyebrow": "Teknologi Inti 01",
+      "title": "Pertanian Inkubator",
+      "subtitle": "Tidak ada satu tetes air pun yang terbuang",
+      "body": "Film khusus sepenuhnya mengisolasi lingkungan tumbuh, memblokir nematoda dan patogen. Tanaman menyerap hampir semua larutan nutrisi. Dibandingkan dengan budidaya bench konvensional, ini mengurangi penggunaan air dan pupuk lebih dari 80% — sambil meningkatkan kandungan senyawa ratusan kali lipat.",
+      "waterNum": "80%",
+      "waterText": "Penggunaan air lebih sedikit daripada\npertanian bench konvensional",
+      "tableTitle": "Metode inkubator vs. budidaya bench",
+      "tableHeaders": [
+        "Kriteria",
+        "Budidaya bench",
+        "Metode inkubator"
+      ],
+      "tableRows": [
+        [
+          "Nematoda dan patogen",
+          "Berkembang biak di tanah, merusak akar",
+          "Sepenuhnya diblokir oleh wol batu"
+        ],
+        [
+          "Frekuensi irigasi",
+          "5–9 kali sehari",
+          "Sekali setiap 15 hari"
+        ],
+        [
+          "Efisiensi nutrisi",
+          "Terbuang sebagai limpasan, mahal",
+          "Sebagian besar diserap oleh tanaman"
+        ],
+        [
+          "Tanam berkelanjutan",
+          "Penumpukan garam, penurunan hasil",
+          "Dikontrol oleh film, tidak ada"
+        ],
+        [
+          "Biaya medium tumbuh",
+          "Mahal untuk diganti",
+          "Sekitar 5% dari konvensional"
+        ],
+        [
+          "Dampak lingkungan",
+          "Tanah tercemar oleh agrokimia",
+          "Tidak ada pupuk kimia, ramah lingkungan"
+        ]
+      ],
+      "cta": "Lihat Detail Teknologi"
+    },
+    "growth": {
+      "eyebrow": "Siklus 42 Hari",
+      "title": "Dari benih hingga kecambah dalam 42 hari",
+      "subtitle": "Dilacak setiap hari dalam lingkungan inkubator yang sepenuhnya terkontrol",
+      "stages": [
+        {
+          "day": "Day 1",
+          "desc": "Benih ditanam"
+        },
+        {
+          "day": "Day 7",
+          "desc": "Perpanjangan batang dimulai"
+        },
+        {
+          "day": "Day 11",
+          "desc": "Daun berkembang"
+        },
+        {
+          "day": "Day 15",
+          "desc": "Tajuk terbentuk"
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "Teknologi Inti 02",
+      "title": "Pupuk Bio Laut Kepiting Salju",
+      "subtitle": "Energi laut dalam ditangkap dalam satu kecambah — produk sampingan krustasea sepenuhnya terurai menjadi pupuk organik berkhasiat tinggi",
+      "steps": [
+        {
+          "step": "STEP 01",
+          "title": "Pengumpulan",
+          "desc": "4.500 t cangkang kepiting dan jeroan setiap tahun"
+        },
+        {
+          "step": "STEP 02",
+          "title": "Pemrosesan primer",
+          "desc": "Dikeringkan dan digiling menjadi kompos bubuk"
+        },
+        {
+          "step": "STEP 03",
+          "title": "Pemrosesan sekunder",
+          "desc": "Bioteknologi alami menghasilkan nutrisi cair"
+        },
+        {
+          "step": "STEP 04",
+          "title": "Produk jadi",
+          "desc": "Pupuk bubuk dan nutrisi cair dikirim"
+        }
+      ],
+      "footerNum": "4.500 t",
+      "footerLabel": "Produk sampingan kepiting salju diproses setiap tahun"
+    },
+    "business": {
+      "eyebrow": "Tiga Bisnis Inti",
+      "title": "Tiga Inovasi Di Mana Alam Bertemu Sains",
+      "smartfarm": "Smart Farm",
+      "smartfarmDesc": "Kontrol iklim otomatis berbasis IoT untuk produk berkhasiat tinggi sepanjang tahun. 400 pyeong × 10 rumah.",
+      "factory": "Pabrik Pupuk",
+      "factoryDesc": "Produk sampingan kepiting sepenuhnya terurai menjadi pupuk bio cair dan bubuk. 4.500 t / tahun.",
+      "healing": "Pusat Kesehatan",
+      "healingDesc": "Pengalaman kesejahteraan yang menggabungkan kuliner kecambah fungsional dengan alam. Akomodasi dan program akan segera hadir."
+    },
+    "products": {
+      "eyebrow": "Produk Unggulan",
+      "title": "Kecambah Fungsional Terbaik, Ditanam oleh Alam",
+      "subtitle": "Kesejahteraan sejati, ditemukan di daun dan batang — bukan di akar",
+      "cta": "Lihat Semua Produk",
+      "cards": [
+        {
+          "components": [
+            "Ginsenoside F2",
+            "Rh2",
+            "Saponin",
+            "Polyphenol"
+          ]
+        },
+        {
+          "components": [
+            "Saponin 600×",
+            "Inulin",
+            "Beta-sitosterol"
+          ]
+        },
+        {
+          "components": [
+            "Allicin 350×",
+            "Selenium",
+            "Quercetin"
+          ]
+        }
+      ]
+    },
+    "historyTimeline": {
+      "eyebrow": "Warisan",
+      "title": "Perjalanan 30 tahun CEO Lee Chun-gil",
+      "subtitle": "Dari pengembangan pupuk di 1989 hingga terobosan Ginsenoside F2 di 2023",
+      "events": [
+        {
+          "year": "1989",
+          "event": "Pengembangan pupuk dimulai",
+          "major": true
+        },
+        {
+          "year": "1993",
+          "event": "Kapsul pertumbuhan buah — apel dan pir",
+          "major": false
+        },
+        {
+          "year": "1997",
+          "event": "Semangka kubus dan mentimun berbentuk",
+          "major": false
+        },
+        {
+          "year": "2004",
+          "event": "Inkubator mentimun dan film labu",
+          "major": false
+        },
+        {
+          "year": "2006",
+          "event": "Pabrik bio alami didirikan",
+          "major": true
+        },
+        {
+          "year": "2010",
+          "event": "Ginseng, bawang putih, kentang tidak berubah warna",
+          "major": false
+        },
+        {
+          "year": "2012",
+          "event": "Kandungan Ginsenoside tinggi diamankan",
+          "major": false
+        },
+        {
+          "year": "2014",
+          "event": "Metode stroberi dan tomat wol-lite",
+          "major": false
+        },
+        {
+          "year": "2018",
+          "event": "Penelitian dan pengembangan benih kecambah ginseng organik",
+          "major": true
+        },
+        {
+          "year": "2023",
+          "event": "Terobosan: Ginsenoside F2 tinggi",
+          "major": true
+        },
+        {
+          "year": "2025",
+          "event": "Pembangunan smart-farm Elohim Bio dimulai",
+          "major": true
+        }
+      ]
+    },
+    "ctaBanner": {
+      "title": "Bangun Masa Depan yang Lebih Sehat\ndengan Elohim Bio",
+      "subtitle": "Dari pertanyaan produk hingga konsultasi investasi, kami siap membantu Anda.",
+      "ctaConsumer": "Pertanyaan Konsumen",
+      "ctaInvestor": "Pertanyaan Investor"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Tentang Kami | Elohim Bio",
+      "description": "Temukan visi dan sejarah 30 tahun di balik inovasi pertanian Elohim Bio."
+    },
+    "hero": {
+      "eyebrow": "Tentang Kami",
+      "title": "30 Tahun Dedikasi\nMendorong Inovasi",
+      "subtitle": "Perjalanan CEO Lee Chun-gil, dari pengembangan pupuk di tahun 1989\nhingga penemuan terobosan Ginsenoside F2 di tahun 2023."
+    },
+    "vision": {
+      "eyebrow": "Visi & Misi",
+      "title": "Memaksimalkan Kekuatan Alam\nuntuk Meningkatkan Kesehatan Manusia",
+      "vision": "Visi: Memimpin pasar tanaman fungsional global dengan teknologi pertanian inkubator dan pupuk bio laut, menjadikan Yangyang sebagai pusat bio-pertanian dunia.",
+      "mission": "Misi: Membangun sistem produksi massal dan distribusi tanaman kecambah berfungsi tinggi berdasarkan 30 tahun akumulasi teknologi, berkontribusi pada peningkatan kesehatan dan pertumbuhan ekonomi daerah.",
+      "philosophy": {
+        "title": "Belajar dari Alam, Disempurnakan dengan Sains",
+        "body": "Elohim Bio menggabungkan kekuatan laut dan daratan. Pupuk bio kitin dan kitosan yang diekstrak dari produk sampingan kepiting membangkitkan potensi tanah, sementara pertanian inkubator memaksimalkan kemampuan tanaman. Filosofi kami adalah bekerja bersama alam, meningkatkannya melalui sains."
+      }
+    },
+    "ceo": {
+      "name": "Lee Chun-gil",
+      "title": "CEO / Pendiri",
+      "bio": "Sejak 1989, CEO Lee Chun-gil telah mengabdikan diri pada pengembangan teknologi pertanian. Beliau mendapat pengakuan dengan pengembangan mentimun kotak dan mentimun Taegeuk pada tahun 1997, kemudian menghabiskan lebih dari 30 tahun meneliti pupuk bio laut dan pertanian inkubator. Pada tahun 2023, beliau berhasil mengembangkan Sinsaengssam yang mengandung 800 kali lebih banyak Ginsenoside F2 dibandingkan ginseng biasa, membuka cakrawala baru di pasar tanaman fungsional."
+    },
+    "history": {
+      "eyebrow": "Sejarah",
+      "title": "30 Tahun Tonggak Sejarah",
+      "items": [
+        {
+          "year": "1989",
+          "event": "CEO Lee Chun-gil memulai penelitian teknologi pertanian — pengembangan pupuk"
+        },
+        {
+          "year": "1997",
+          "event": "Pengembangan mentimun kotak & mentimun Taegeuk — pelopor inovasi tanaman"
+        },
+        {
+          "year": "2005",
+          "event": "R&D pupuk bio laut dari produk sampingan kepiting merah dimulai"
+        },
+        {
+          "year": "2015",
+          "event": "Paten pertanian inkubator diajukan — sistem isolasi film khusus didirikan"
+        },
+        {
+          "year": "2020",
+          "event": "Pupuk bio kitin & kitosan selesai — kapasitas tahunan 4.500 ton tercapai"
+        },
+        {
+          "year": "2023",
+          "event": "Ginsenoside F2 800x tercapai — keberhasilan pengembangan Sinsaengssam"
+        },
+        {
+          "year": "2024",
+          "event": "Elohim Bio didirikan — Smart Farm, Pabrik Pupuk, Pusat Kesehatan diluncurkan"
+        },
+        {
+          "year": "2025",
+          "event": "10 fasilitas Smart Farm Yangyang beroperasi penuh — produksi massal dimulai"
+        }
+      ]
+    },
+    "strengths": {
+      "eyebrow": "Keunggulan Inti",
+      "title": "Keunggulan Kompetitif Kami",
+      "items": [
+        {
+          "title": "30 Tahun Keahlian",
+          "desc": "Pengalaman lapangan dan keahlian yang terakumulasi dari pengembangan pupuk hingga pertanian inkubator"
+        },
+        {
+          "title": "Teknologi Berpaten",
+          "desc": "Paten inti dalam sistem pertanian inkubator dan pupuk bio laut"
+        },
+        {
+          "title": "Hasil Terbukti",
+          "desc": "Terverifikasi oleh Korea Food Research Institute — kandungan Ginsenoside F2 800x dikonfirmasi"
+        },
+        {
+          "title": "Integrasi Vertikal",
+          "desc": "Kontrol menyeluruh dari bahan baku (kepiting) hingga pupuk, budidaya, pengolahan, dan distribusi"
+        }
+      ]
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "Teknologi | Elohim Bio",
+      "description": "Temukan teknologi pertanian inkubator dan pupuk bio laut yang mencapai kadar Ginsenoside F2 800x."
+    },
+    "hero": {
+      "eyebrow": "Teknologi Inti",
+      "title": "Memaksimalkan Kekuatan Alam\nMelalui Sains",
+      "subtitle": "Dua teknologi inti bergabung untuk mewujudkan yang mustahil"
+    },
+    "incubator": {
+      "eyebrow": "Teknologi 1",
+      "title": "Pertanian Inkubator",
+      "subtitle": "Sistem Pertumbuhan Terisolasi dengan Film Khusus",
+      "description": "Tanaman ditanam dalam lingkungan steril yang diisolasi oleh film khusus. Ini sepenuhnya memblokir nematoda dan patogen sekaligus mengontrol nutrisi dan kelembapan secara presisi untuk memaksimalkan kandungan senyawa aktif. Penggunaan air 80% lebih sedikit dibandingkan pertanian konvensional tanpa penggunaan pestisida.",
+      "advantages": [
+        "Penghalang lengkap terhadap patogen dan nematoda dengan film khusus",
+        "Pengurangan air 80% (sistem irigasi presisi)",
+        "Tanpa pestisida — budidaya 100% ramah lingkungan",
+        "Kontrol nutrisi presisi memaksimalkan senyawa aktif",
+        "Produksi stabil sepanjang tahun (tidak bergantung musim)"
+      ],
+      "comparisonTitle": "Pertanian Konvensional vs. Pertanian Inkubator"
+    },
+    "comparison": {
+      "headers": [
+        "Kategori",
+        "Konvensional",
+        "Pertanian Inkubator"
+      ],
+      "rows": [
+        [
+          "Lingkungan",
+          "Lahan terbuka atau rumah kaca standar",
+          "Lingkungan steril terisolasi film"
+        ],
+        [
+          "Penggunaan Air",
+          "100% (dasar)",
+          "20% (pengurangan 80%)"
+        ],
+        [
+          "Pestisida",
+          "Diperlukan (pengendalian hama)",
+          "Tidak diperlukan (penghalang sempurna)"
+        ],
+        [
+          "Pengendalian Patogen",
+          "Terbatas",
+          "100% terblokir"
+        ],
+        [
+          "Kandungan Senyawa",
+          "Standar",
+          "Ginsenoside F2 800x"
+        ],
+        [
+          "Periode Produksi",
+          "Musiman",
+          "Sepanjang tahun"
+        ]
+      ]
+    },
+    "fertilizer": {
+      "eyebrow": "Teknologi 2",
+      "title": "Pupuk Bio Laut dari Kepiting",
+      "subtitle": "Pupuk Organik Berbasis Kitin & Kitosan",
+      "description": "Kitin dan kitosan diekstrak dari produk sampingan kepiting merah (cangkang) dari Pantai Timur Korea, diurai sepenuhnya menjadi pupuk bio cair dan bubuk. Pupuk ini meningkatkan imunitas tanaman dan mendorong sintesis senyawa aktif. Pengolahan 4.500 ton produk sampingan kepiting per tahun juga berkontribusi pada sirkulasi sumber daya."
+    },
+    "ginsenoside": {
+      "eyebrow": "Hasil Terbukti",
+      "title": "Hasil Analisis Ginsenoside",
+      "subtitle": "Standar Korea Food Research Institute",
+      "items": [
+        {
+          "crop": "Sinsaengssam (Kecambah Ginseng)",
+          "component": "Ginsenoside F2",
+          "multiplier": 800,
+          "unit": "x"
+        },
+        {
+          "crop": "Sinsaeng Doraji",
+          "component": "Saponin",
+          "multiplier": 12,
+          "unit": "x"
+        },
+        {
+          "crop": "Sinsaeng Bawang Putih",
+          "component": "Allicin",
+          "multiplier": 8,
+          "unit": "x"
+        }
+      ],
+      "note": "* Dibandingkan dengan tanaman yang ditanam secara konvensional. Berdasarkan analisis Korea Food Research Institute."
+    },
+    "philosophy": {
+      "quote": "Menyempurnakan Siklus Alam Melalui Teknologi",
+      "author": "— CEO Lee Chun-gil",
+      "body": "Kepiting dari laut menjadi pupuk untuk tanah, dan kecambah yang tumbuh dari pupuk tersebut melindungi kesehatan manusia. Teknologi Elohim Bio mengoptimalkan siklus alam ini melalui sains untuk menghasilkan tanaman fungsional terbaik."
+    }
+  },
+  "products": {
+    "meta": {
+      "title": "Produk | Elohim Bio",
+      "description": "Kecambah Sinsaengssam, Doraji, dan Bawang Putih yang ditanam dengan pertanian inkubator. Kandungan Ginsenoside F2 800x."
+    },
+    "hero": {
+      "eyebrow": "Produk",
+      "title": "Kecambah Fungsional\nTerbaik dari Alam",
+      "subtitle": "Kesehatan sejati ditemukan di daun dan batang, bukan akar"
+    },
+    "sinsaengssam": {
+      "name": "Sinsaengssam (Kecambah Ginseng)",
+      "badge": "Terlaris",
+      "tagline": "Pilihan utama untuk kesehatan hati, perawatan anti-kanker, dan imunitas",
+      "description": "Ditanam dengan pertanian inkubator, Sinsaengssam mengandung lebih dari 800 kali Ginsenoside F2 di daun dan batangnya dibandingkan akar ginseng biasa. Dibudidayakan tanpa pestisida dalam lingkungan steril, aman dikonsumsi mentah.",
+      "keyComponent": "Ginsenoside F2",
+      "multiplier": "800x",
+      "benefits": [
+        "Perlindungan hati (mendorong regenerasi sel hati)",
+        "Sifat anti-kanker (menghambat pertumbuhan sel kanker)",
+        "Peningkatan imunitas (aktivasi sel NK)",
+        "Aksi antioksidan (eliminasi radikal bebas)",
+        "Dukungan pengaturan gula darah"
+      ],
+      "howToEat": "Cuci dan makan mentah, atau gunakan dalam salad, smoothie, atau bungkus sayuran. Asupan harian yang disarankan: 5-10 kecambah.",
+      "storage": "Simpan di lemari es (2-5°C), konsumsi dalam 7 hari setelah panen",
+      "certification": "Analisis Korea Food Research Institute selesai"
+    },
+    "doraji": {
+      "name": "Sinsaeng Doraji (Kecambah Akar Lonceng)",
+      "tagline": "Solusi alami untuk kesehatan bronkial dan pernapasan",
+      "description": "Sinsaeng Doraji yang ditanam dengan pertanian inkubator mengandung 12 kali lebih banyak saponin dibandingkan akar lonceng yang ditanam secara konvensional. Daun dan batang muda dipanen untuk rasa yang lembut dan empuk yang nikmat bahkan dimakan mentah.",
+      "keyComponent": "Saponin",
+      "multiplier": "12x",
+      "benefits": [
+        "Kesehatan bronkial & pernapasan (mendorong pengeluaran dahak)",
+        "Aksi anti-inflamasi (meredakan peradangan kronis)",
+        "Peningkatan imunitas",
+        "Dukungan pengaturan gula darah",
+        "Efek antioksidan"
+      ],
+      "howToEat": "Makan mentah, atau sajikan sebagai lauk, teh, atau jus. Asupan harian yang disarankan: 50-100g.",
+      "storage": "Simpan di lemari es (2-5°C), konsumsi dalam 5 hari setelah panen",
+      "certification": "Analisis Korea Food Research Institute selesai"
+    },
+    "garlic": {
+      "name": "Sinsaeng Bawang Putih (Kecambah Bawang Putih)",
+      "tagline": "Makanan antibakteri untuk kesehatan kardiovaskular dan imunitas",
+      "description": "Sinsaeng Bawang Putih yang ditanam dengan pertanian inkubator mengandung 8 kali lebih banyak allicin dibandingkan bawang putih biasa. Dipanen pada tahap kecambah, memiliki rasa pedas ringan dan tekstur renyah.",
+      "keyComponent": "Allicin",
+      "multiplier": "8x",
+      "benefits": [
+        "Aksi antibakteri & antivirus yang kuat",
+        "Kesehatan kardiovaskular (pengaturan kolesterol)",
+        "Peningkatan imunitas",
+        "Aksi antioksidan",
+        "Pemulihan kelelahan"
+      ],
+      "howToEat": "Makan mentah, atau sajikan sebagai salad bumbu, tumis, atau acar. Asupan harian yang disarankan: 30-50g.",
+      "storage": "Simpan di lemari es (2-5°C), konsumsi dalam 7 hari setelah panen",
+      "certification": "Analisis Korea Food Research Institute selesai"
+    },
+    "whySprouts": {
+      "eyebrow": "Mengapa Kecambah?",
+      "title": "Nutrisi Sejati Ada di\nDaun dan Batang, Bukan Akar",
+      "description": "Tanaman mensintesis senyawa aktif maksimum selama fase pertumbuhan paling kuat, 7-15 hari setelah perkecambahan. Produk kecambah Elohim Bio dipanen selama periode emas ini untuk kepadatan nutrisi puncak.",
+      "items": [
+        {
+          "title": "Energi Pertumbuhan Terkonsentrasi",
+          "desc": "Kecambah secara eksplosif mensintesis senyawa aktif saat mengubah energi tersimpan di akar menjadi pertumbuhan daun."
+        },
+        {
+          "title": "Tingkat Penyerapan 99%",
+          "desc": "Jaringan kecambah yang lunak memungkinkan pencernaan dan penyerapan cepat, memaksimalkan bioavailabilitas."
+        },
+        {
+          "title": "Aman Dikonsumsi Mentah",
+          "desc": "Ditanam dalam lingkungan inkubator steril — tanpa pestisida, tanpa logam berat, aman dimakan mentah."
+        }
+      ]
+    }
+  },
+  "business": {
+    "meta": {
+      "title": "Bisnis | Elohim Bio",
+      "description": "Smart Farm, Pabrik Pupuk, dan Pusat Kesehatan — ekosistem bio-pertanian ramah lingkungan senilai 100 miliar KRW."
+    },
+    "hero": {
+      "eyebrow": "Bisnis",
+      "title": "Tiga Pilar Membangun\nEkosistem Bio-Pertanian Ramah Lingkungan",
+      "subtitle": "Smart Farm · Pabrik Pupuk · Pusat Kesehatan — semuanya terhubung"
+    },
+    "smartfarm": {
+      "eyebrow": "Bisnis 1",
+      "title": "Smart Farm",
+      "description": "Kontrol iklim otomatis berbasis IoT mengelola suhu, kelembapan, irigasi, dan pencahayaan secara presisi. Produksi stabil tanaman berfungsi tinggi sepanjang tahun di 10 fasilitas masing-masing 400 pyeong.",
+      "specs": [
+        {
+          "label": "Ukuran Fasilitas",
+          "value": "400 pyeong × 10 unit"
+        },
+        {
+          "label": "Tanaman",
+          "value": "Sinsaengssam, Doraji, Bawang Putih"
+        },
+        {
+          "label": "Sistem Kontrol",
+          "value": "Otomasi IoT (suhu, kelembapan, irigasi, cahaya)"
+        },
+        {
+          "label": "Produksi",
+          "value": "Sepanjang tahun, tanpa henti"
+        }
+      ]
+    },
+    "factory": {
+      "eyebrow": "Bisnis 2",
+      "title": "Pabrik Pupuk",
+      "description": "Mengurai sepenuhnya produk sampingan kepiting merah Pantai Timur menjadi pupuk bio cair dan bubuk. Mengoperasikan pabrik berkapasitas 4.500 ton per tahun, berkontribusi pada ekonomi sirkulasi sumber daya.",
+      "specs": [
+        {
+          "label": "Kapasitas Tahunan",
+          "value": "4.500 ton"
+        },
+        {
+          "label": "Bahan Baku",
+          "value": "Produk sampingan kepiting Pantai Timur (kitin/kitosan)"
+        },
+        {
+          "label": "Produk",
+          "value": "Pupuk cair · Pupuk bubuk"
+        },
+        {
+          "label": "Dampak Lingkungan",
+          "value": "100% sirkulasi sumber daya produk sampingan"
+        }
+      ]
+    },
+    "healing": {
+      "eyebrow": "Bisnis 3",
+      "title": "Pusat Kesehatan",
+      "description": "Ruang kesehatan yang menggabungkan masakan kecambah fungsional dengan lingkungan alam Yangyang. Memimpin wisata kesehatan dengan program akomodasi, pengalaman pertanian, dan program kesehatan.",
+      "specs": [
+        {
+          "label": "Lokasi",
+          "value": "Yangyang-gun, Provinsi Gangwon"
+        },
+        {
+          "label": "Program",
+          "value": "Akomodasi · Pengalaman pertanian · Masakan sehat"
+        },
+        {
+          "label": "Keunggulan",
+          "value": "Masakan kecambah fungsional"
+        },
+        {
+          "label": "Target",
+          "value": "Pembukaan tahun 2026"
+        }
+      ]
+    },
+    "investment": {
+      "eyebrow": "Sorotan Investasi",
+      "title": "Bisnis dengan Potensi Pertumbuhan Terbukti",
+      "items": [
+        {
+          "value": "₩100M+",
+          "label": "Total Skala Bisnis"
+        },
+        {
+          "value": "₩40M",
+          "label": "Investasi Smart Farm"
+        },
+        {
+          "value": "₩30M",
+          "label": "Investasi Pabrik Pupuk"
+        },
+        {
+          "value": "₩30M",
+          "label": "Investasi Pusat Kesehatan"
+        }
+      ]
+    },
+    "roadmap": {
+      "eyebrow": "Peta Jalan",
+      "title": "Rencana Pertumbuhan",
+      "items": [
+        {
+          "phase": "Fase 1 (2024–2025)",
+          "title": "Fondasi",
+          "desc": "Pendirian perusahaan, 10 fasilitas smart farm, uji coba pabrik pupuk"
+        },
+        {
+          "phase": "Fase 2 (2025–2026)",
+          "title": "Ekspansi",
+          "desc": "20 fasilitas smart farm, produksi massal pupuk, pembangunan pusat kesehatan"
+        },
+        {
+          "phase": "Fase 3 (2026–2027)",
+          "title": "Masuk Pasar",
+          "desc": "Distribusi domestik, ekspor ke Jepang & Asia Tenggara, pembukaan pusat kesehatan"
+        },
+        {
+          "phase": "Fase 4 (2028–)",
+          "title": "Ekspansi Global",
+          "desc": "Pasar Tiongkok & Timur Tengah, ekspor teknologi smart farm"
+        }
+      ]
+    },
+    "irCta": {
+      "title": "Selamat Datang, Para Investor",
+      "description": "Jelajahi potensi pertumbuhan dan rencana bisnis Elohim Bio secara detail.",
+      "cta": "Ke Halaman Investor IR"
+    }
+  },
+  "ir": {
+    "meta": {
+      "title": "Investor IR | Elohim Bio",
+      "description": "Halaman informasi eksklusif untuk investor Elohim Bio."
+    },
+    "login": {
+      "title": "Halaman Khusus Investor",
+      "subtitle": "Masuk dengan kredensial yang diberikan oleh perwakilan kami",
+      "emailLabel": "Email",
+      "emailPlaceholder": "investor@example.com",
+      "passwordLabel": "Kata Sandi",
+      "loginBtn": "Masuk",
+      "contactHint": "Belum punya akun?",
+      "contactLink": "Hubungi perwakilan kami",
+      "errorInvalid": "Email atau kata sandi tidak valid.",
+      "errorNotAuthorized": "Anda tidak memiliki akses IR. Silakan hubungi perwakilan kami."
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Kontak | Elohim Bio",
+      "description": "Pembelian produk, investasi, kemitraan, dan reservasi pengalaman — kami menerima semua pertanyaan."
+    },
+    "hero": {
+      "eyebrow": "Kontak",
+      "title": "Hubungi Kami\nKapan Saja",
+      "subtitle": "Dari pertanyaan konsumen hingga konsultasi investasi"
+    },
+    "form": {
+      "typeLabel": "Jenis Pertanyaan",
+      "typeConsumer": "Pertanyaan Produk Konsumen",
+      "typeInvestor": "Pertanyaan Investor",
+      "typePartnership": "Kemitraan / B2B",
+      "typeExperience": "Reservasi Pengalaman Pertanian",
+      "typeOther": "Lainnya",
+      "nameLabel": "Nama",
+      "namePlaceholder": "Budi Santoso",
+      "emailLabel": "Email",
+      "emailPlaceholder": "example@email.com",
+      "phoneLabel": "Telepon",
+      "phonePlaceholder": "+82-10-0000-0000",
+      "companyLabel": "Perusahaan (opsional)",
+      "companyPlaceholder": "Nama perusahaan",
+      "messageLabel": "Pesan",
+      "messagePlaceholder": "Silakan jelaskan pertanyaan Anda.",
+      "privacyLabel": "Saya menyetujui pengumpulan dan penggunaan informasi pribadi.",
+      "privacyLink": "Lihat Kebijakan Privasi",
+      "submitBtn": "Kirim Pertanyaan",
+      "submitting": "Mengirim...",
+      "successTitle": "Pertanyaan Terkirim",
+      "successMessage": "Kami akan merespons dalam 1-2 hari kerja.",
+      "errorMessage": "Terjadi kesalahan. Silakan coba lagi nanti.",
+      "required": "Wajib"
+    },
+    "info": {
+      "title": "Informasi Kontak",
+      "email": "info@elohimbio.com",
+      "location": "Yangyang-gun, Provinsi Gangwon, Korea Selatan",
+      "responseTime": "Waktu respons rata-rata: 1-2 hari kerja"
+    }
+  },
+  "board": {
+    "meta": {
+      "title": "Papan Informasi | Elohim Bio",
+      "description": "Papan Informasi Elohim Bio — Bagikan dan unduh sumber daya dengan bebas."
+    },
+    "title": "Papan Informasi",
+    "subtitle": "Bagikan dan unduh sumber daya dengan bebas",
+    "writeBtn": "Tulis",
+    "table": {
+      "number": "No.",
+      "title": "Judul",
+      "author": "Penulis",
+      "date": "Tanggal",
+      "views": "Dilihat",
+      "files": "File"
+    },
+    "empty": "Belum ada postingan.",
+    "pagination": {
+      "prev": "Sebelumnya",
+      "next": "Berikutnya"
+    },
+    "write": {
+      "title": "Postingan Baru",
+      "titleLabel": "Judul",
+      "titlePlaceholder": "Masukkan judul",
+      "authorLabel": "Penulis",
+      "authorPlaceholder": "Masukkan nama Anda",
+      "passwordLabel": "Kata sandi (diperlukan untuk penghapusan)",
+      "passwordPlaceholder": "Minimal 4 karakter",
+      "contentLabel": "Konten",
+      "contentPlaceholder": "Masukkan konten",
+      "fileLabel": "Lampiran (maks 3, masing-masing 10MB)",
+      "fileBtn": "Pilih File",
+      "fileSelected": "file dipilih",
+      "submitBtn": "Kirim",
+      "submitting": "Mengirim...",
+      "cancelBtn": "Batal",
+      "errorRequired": "Harap isi semua kolom yang wajib.",
+      "errorFileSize": "Setiap file harus di bawah 10MB.",
+      "errorFileCount": "Anda dapat melampirkan hingga 3 file.",
+      "errorSubmit": "Terjadi kesalahan. Silakan coba lagi."
+    },
+    "detail": {
+      "backToList": "Kembali ke Daftar",
+      "author": "Penulis",
+      "date": "Tanggal",
+      "views": "Dilihat",
+      "files": "Lampiran",
+      "download": "Unduh",
+      "deleteBtn": "Hapus",
+      "deleteConfirm": "Apakah Anda yakin ingin menghapus postingan ini?",
+      "deletePasswordLabel": "Masukkan kata sandi",
+      "deletePasswordPlaceholder": "Kata sandi yang digunakan saat menulis",
+      "deleteSubmit": "Konfirmasi Hapus",
+      "deleteCancel": "Batal",
+      "deleteSuccess": "Postingan dihapus.",
+      "deleteErrorPassword": "Kata sandi salah.",
+      "deleteError": "Terjadi kesalahan saat menghapus.",
+      "notFound": "Postingan tidak ditemukan."
+    }
+  },
+  "seo": {
+    "defaultTitle": "Elohim Bio | Kecambah Fungsional melalui Pertanian Inkubator",
+    "defaultDescription": "Sinsaengssam, Doraji, dan Bawang Putih berfungsi tinggi dengan Ginsenoside F2 800x, ditanam menggunakan 30 tahun teknologi pertanian inkubator dan pupuk bio laut.",
+    "ogImageAlt": "Elohim Bio — Inovasi Pertanian Kecambah Fungsional"
+  }
+}

@@ -36,6 +36,18 @@ yarn-error.log*
 # vercel
 .vercel
 
+# firebase
+.firebase/
+firebase-debug.log
+*-credentials.json
+*-adminsdk-*.json
+
+# raw source assets
+/그림/
+
+# misc
+nul
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

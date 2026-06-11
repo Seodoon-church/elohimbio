@@ -1,0 +1,841 @@
+{
+  "common": {
+    "siteName": "Elohim Bio",
+    "siteTagline": "源自深海的奇迹，在芽苗中臻于完美",
+    "ctaProduct": "查看产品",
+    "ctaInvestor": "投资者 IR",
+    "ctaContact": "联系我们",
+    "ctaLearnMore": "了解更多",
+    "ctaDownload": "下载",
+    "ctaApply": "申请体验",
+    "navAbout": "关于我们",
+    "navTechnology": "核心技术",
+    "navProducts": "产品介绍",
+    "navBusiness": "事业领域",
+    "navBoard": "公告板",
+    "navIR": "投资者 IR",
+    "navContact": "联系我们",
+    "footerPrivacy": "隐私政策",
+    "footerCopyright": "© 2025 Elohim Bio. All rights reserved.",
+    "footerAddress": "京畿道利川市长湖院邑圣州路75号",
+    "footerEmail": "info@elohimbio.com",
+    "langSelect": "语言"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "30年专业技术的成果",
+      "title": "源自深海的奇迹，\n在芽苗中臻于完美",
+      "subtitle": "高功能性新生参、桔梗和大蒜芽苗——\n采用红蟹海洋生物肥料和培育箱农法种植",
+      "ctaPrimary": "探索产品",
+      "ctaSecondary": "投资者关系",
+      "imageAlt": "Elohim Bio 培育箱农法智慧农场",
+      "badgeNum": "800×",
+      "badgeLbl": "人参皂苷 F2 vs. 普通人参",
+      "scrollCue": "向下滚动"
+    },
+    "stats": {
+      "eyebrow": "Elohim Bio 数据一览",
+      "title": "经过验证的技术，确认的成果",
+      "items": [
+        {
+          "value": 30,
+          "suffix": "年+",
+          "label": "农业技术研发年份"
+        },
+        {
+          "value": 800,
+          "suffix": "×",
+          "label": "人参皂苷 F2 含量\n（vs. 普通人参）"
+        },
+        {
+          "value": 4500,
+          "suffix": "吨",
+          "label": "红蟹年处理量"
+        },
+        {
+          "value": 99,
+          "suffix": "%",
+          "label": "活性成分吸收率"
+        }
+      ]
+    },
+    "philosophy": {
+      "eyebrow": "我们的理念",
+      "quote": "为什么不吃根部",
+      "body": "Elohim Bio 只采收人参、桔梗和大蒜的叶片和茎部——即芽苗。活性成分在芽苗中的浓度远高于根部，且人体对其的吸收率明显更高。这就是我们的理念，也是我们的差异所在。",
+      "points": [
+        "活性成分集中在芽苗中，而非根部",
+        "人体吸收率显著更高",
+        "无农药、可持续种植"
+      ],
+      "tagMain": "芽苗优于根部",
+      "tagSub": "叶片和茎部含有更高的功能性成分"
+    },
+    "potency": {
+      "eyebrow": "成分对比",
+      "title": "差异，用数字证明",
+      "subtitle": "功能性成分含量——传统方法无法比肩——在相同的种植面积上",
+      "note": "* 与传统种植作物相比，基于内部成分分析。",
+      "baseLabel": "普通 = 1×",
+      "bars": [
+        {
+          "label": "芽苗新生参",
+          "component": "人参皂苷 F2",
+          "multiplier": 800,
+          "unit": "×",
+          "pct": 100
+        },
+        {
+          "label": "芽苗桔梗",
+          "component": "皂苷",
+          "multiplier": 600,
+          "unit": "×",
+          "pct": 75
+        },
+        {
+          "label": "芽苗大蒜",
+          "component": "大蒜素",
+          "multiplier": 350,
+          "unit": "×",
+          "pct": 44
+        }
+      ]
+    },
+    "incubator": {
+      "eyebrow": "核心技术 01",
+      "title": "培育箱农法",
+      "subtitle": "没有浪费一滴水",
+      "body": "专用薄膜完全隔离种植环境，阻挡线虫和病原体。作物吸收几乎全部营养液。与传统温床种植相比，节省用水和肥料超过80%——同时将有效成分提高数百倍。",
+      "waterNum": "80%",
+      "waterText": "相比传统温床种植\n节省用水量",
+      "tableTitle": "培育箱农法 vs. 温床种植",
+      "tableHeaders": [
+        "评价项",
+        "温床种植",
+        "培育箱农法"
+      ],
+      "tableRows": [
+        [
+          "线虫和病原体",
+          "在土壤中繁殖，破坏根部",
+          "由岩棉完全阻隔"
+        ],
+        [
+          "灌溉频率",
+          "每日5-9次",
+          "每15天1次"
+        ],
+        [
+          "养分利用效率",
+          "随径流浪费，成本高",
+          "大部分被作物吸收"
+        ],
+        [
+          "连续种植",
+          "盐分堆积，产量下降",
+          "薄膜控制，无此问题"
+        ],
+        [
+          "种植介质成本",
+          "更换成本高",
+          "约为传统方法的5%"
+        ],
+        [
+          "环境影响",
+          "土壤被农药污染",
+          "无化肥，生态友好"
+        ]
+      ],
+      "cta": "查看技术详情"
+    },
+    "growth": {
+      "eyebrow": "42天周期",
+      "title": "从种子到芽苗，需要42天",
+      "subtitle": "在完全受控的培育箱环境中，逐日追踪",
+      "stages": [
+        {
+          "day": "Day 1",
+          "desc": "种子种植"
+        },
+        {
+          "day": "Day 7",
+          "desc": "茎部开始伸长"
+        },
+        {
+          "day": "Day 11",
+          "desc": "叶片展开"
+        },
+        {
+          "day": "Day 15",
+          "desc": "形成冠层"
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "核心技术 02",
+      "title": "红蟹海洋生物肥料",
+      "subtitle": "深海能量捕捉在芽苗中——甲壳类副产品完全分解为高功能有机肥料",
+      "steps": [
+        {
+          "step": "STEP 01",
+          "title": "收集",
+          "desc": "每年收集4,500吨蟹壳和内脏"
+        },
+        {
+          "step": "STEP 02",
+          "title": "初级加工",
+          "desc": "干燥并研磨成粉末堆肥"
+        },
+        {
+          "step": "STEP 03",
+          "title": "二级加工",
+          "desc": "天然生物技术产生液态养分"
+        },
+        {
+          "step": "STEP 04",
+          "title": "成品",
+          "desc": "粉末肥料和液态养分已运送"
+        }
+      ],
+      "footerNum": "4,500 吨",
+      "footerLabel": "红蟹副产品年处理量"
+    },
+    "business": {
+      "eyebrow": "三大核心业务",
+      "title": "三项创新，自然与科学的融合",
+      "smartfarm": "智慧农场",
+      "smartfarmDesc": "物联网自动化气候控制，全年生产高功能作物。400坪 × 10栋设施。",
+      "factory": "肥料厂",
+      "factoryDesc": "蟹副产品完全分解成液态和粉末生物肥料。年产能4,500吨。",
+      "healing": "康养中心",
+      "healingDesc": "将功能性芽苗美食与自然体验相结合的健康空间。住宿和项目即将推出。"
+    },
+    "products": {
+      "eyebrow": "招牌产品",
+      "title": "最优质的功能性芽苗，由大自然种植",
+      "subtitle": "真正的健康在叶片和茎部中——而非根部",
+      "cta": "查看全部产品",
+      "cards": [
+        {
+          "components": [
+            "人参皂苷 F2",
+            "Rh2",
+            "皂苷",
+            "多酚"
+          ]
+        },
+        {
+          "components": [
+            "皂苷 600×",
+            "菊粉",
+            "β-谷固醇"
+          ]
+        },
+        {
+          "components": [
+            "大蒜素 350×",
+            "硒",
+            "槲皮素"
+          ]
+        }
+      ]
+    },
+    "historyTimeline": {
+      "eyebrow": "传承",
+      "title": "CEO 李春吉的30年历程",
+      "subtitle": "从1989年的肥料研发到2023年人参皂苷F2的突破",
+      "events": [
+        {
+          "year": "1989",
+          "event": "肥料研发开始",
+          "major": true
+        },
+        {
+          "year": "1993",
+          "event": "水果生长胶囊——苹果和梨",
+          "major": false
+        },
+        {
+          "year": "1997",
+          "event": "立方西瓜和异形黄瓜",
+          "major": false
+        },
+        {
+          "year": "2004",
+          "event": "培育箱黄瓜和南瓜薄膜",
+          "major": false
+        },
+        {
+          "year": "2006",
+          "event": "天然生物工厂建立",
+          "major": true
+        },
+        {
+          "year": "2010",
+          "event": "不变色人参、大蒜、马铃薯",
+          "major": false
+        },
+        {
+          "year": "2012",
+          "event": "人参皂苷含量达到高值",
+          "major": false
+        },
+        {
+          "year": "2014",
+          "event": "石棉草莓和番茄方法",
+          "major": false
+        },
+        {
+          "year": "2018",
+          "event": "有机芽苗人参种子研发",
+          "major": true
+        },
+        {
+          "year": "2023",
+          "event": "突破：高人参皂苷F2",
+          "major": true
+        },
+        {
+          "year": "2025",
+          "event": "Elohim Bio 智慧农场建设开始",
+          "major": true
+        }
+      ]
+    },
+    "ctaBanner": {
+      "title": "与 Elohim Bio\n一起构建更健康的未来",
+      "subtitle": "从产品咨询到投资洽谈，我们为您服务。",
+      "ctaConsumer": "消费者咨询",
+      "ctaInvestor": "投资者咨询"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "关于我们 | Elohim Bio",
+      "description": "了解 Elohim Bio 农业创新背后的愿景和30年发展历程。"
+    },
+    "hero": {
+      "eyebrow": "关于我们",
+      "title": "30年的专注\n驱动创新",
+      "subtitle": "CEO 李春吉的历程，从1989年的肥料研发\n到2023年人参皂苷F2的重大突破。"
+    },
+    "vision": {
+      "eyebrow": "愿景与使命",
+      "title": "最大化自然之力\n增进人类健康",
+      "vision": "愿景：以培育箱农法和海洋生物肥料技术引领全球功能性作物市场，将襄阳打造为全球生物农业中心。",
+      "mission": "使命：基于30年积累的技术，建立高功能芽苗作物的量产和流通体系，为健康改善和地区经济发展做出贡献。",
+      "philosophy": {
+        "title": "向自然学习，以科学完善",
+        "body": "Elohim Bio 融合了海洋与陆地的力量。从螃蟹副产品中提取的甲壳素和壳聚糖生物肥料唤醒土壤的潜力，而培育箱农法则最大化植物的能力。我们的理念是与自然协作，以科学提升自然。"
+      }
+    },
+    "ceo": {
+      "name": "李春吉",
+      "title": "CEO / 创始人",
+      "bio": "自1989年以来，CEO李春吉一直致力于农业技术开发。1997年凭借方形黄瓜和太极黄瓜的开发获得认可，此后30余年间持续研究海洋生物肥料和培育箱农法。2023年，成功开发出人参皂苷F2含量超普通人参800倍的新生参，开辟了功能性作物市场的新天地。"
+    },
+    "history": {
+      "eyebrow": "发展历程",
+      "title": "30年里程碑",
+      "items": [
+        {
+          "year": "1989",
+          "event": "CEO 李春吉开始农业技术研究——肥料研发"
+        },
+        {
+          "year": "1997",
+          "event": "方形黄瓜和太极黄瓜开发——作物创新先驱"
+        },
+        {
+          "year": "2005",
+          "event": "红蟹副产品海洋生物肥料研发启动"
+        },
+        {
+          "year": "2015",
+          "event": "培育箱农法专利申请——专用薄膜隔离系统建立"
+        },
+        {
+          "year": "2020",
+          "event": "甲壳素·壳聚糖生物肥料研发完成——年产能4,500吨"
+        },
+        {
+          "year": "2023",
+          "event": "人参皂苷F2含量达800倍——新生参开发成功"
+        },
+        {
+          "year": "2024",
+          "event": "Elohim Bio 公司成立——智慧农场、肥料工厂、康养中心启动"
+        },
+        {
+          "year": "2025",
+          "event": "襄阳智慧农场10栋全面运营——量产开始"
+        }
+      ]
+    },
+    "strengths": {
+      "eyebrow": "核心优势",
+      "title": "我们的竞争力",
+      "items": [
+        {
+          "title": "30年专业经验",
+          "desc": "从肥料研发到培育箱农法积累的实践经验和专业知识"
+        },
+        {
+          "title": "专利技术",
+          "desc": "培育箱农法和海洋生物肥料系统核心专利"
+        },
+        {
+          "title": "验证成果",
+          "desc": "韩国食品研究院认证——人参皂苷F2含量800倍确认"
+        },
+        {
+          "title": "垂直整合",
+          "desc": "从原料（螃蟹）到肥料、栽培、加工、流通的全链条管控"
+        }
+      ]
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "核心技术 | Elohim Bio",
+      "description": "了解实现人参皂苷F2含量800倍的培育箱农法和海洋生物肥料技术。"
+    },
+    "hero": {
+      "eyebrow": "核心技术",
+      "title": "以科学之力\n最大化自然潜能",
+      "subtitle": "两大核心技术的结合，让不可能变为可能"
+    },
+    "incubator": {
+      "eyebrow": "技术一",
+      "title": "培育箱农法",
+      "subtitle": "专用薄膜隔离栽培系统",
+      "description": "作物在由专用薄膜隔离的无菌环境中生长。完全阻隔线虫和病原体，同时精确控制养分和水分，最大化有效成分含量。与传统农业相比节水80%，零农药使用。",
+      "advantages": [
+        "专用薄膜完全阻隔病原体和线虫",
+        "节水80%（精准灌溉系统）",
+        "零农药——100%环保栽培",
+        "精准养分控制最大化有效成分",
+        "全年稳定生产（不受季节限制）"
+      ],
+      "comparisonTitle": "传统农法 vs. 培育箱农法"
+    },
+    "comparison": {
+      "headers": [
+        "类别",
+        "传统农法",
+        "培育箱农法"
+      ],
+      "rows": [
+        [
+          "环境",
+          "露天或普通温室",
+          "无菌薄膜隔离环境"
+        ],
+        [
+          "用水量",
+          "100%（基准）",
+          "20%（减少80%）"
+        ],
+        [
+          "农药",
+          "必须使用（病虫害防治）",
+          "无需使用（完全隔离）"
+        ],
+        [
+          "病原体控制",
+          "有限",
+          "100%阻隔"
+        ],
+        [
+          "有效成分含量",
+          "标准",
+          "人参皂苷F2 800倍"
+        ],
+        [
+          "生产周期",
+          "季节性",
+          "全年生产"
+        ]
+      ]
+    },
+    "fertilizer": {
+      "eyebrow": "技术二",
+      "title": "螃蟹海洋生物肥料",
+      "subtitle": "基于甲壳素·壳聚糖的有机肥料",
+      "description": "从韩国东海岸红蟹副产品（蟹壳）中提取甲壳素和壳聚糖，完全分解制成液态和粉末生物肥料。这些肥料增强植物免疫力并促进有效成分合成。每年加工4,500吨螃蟹副产品，同时助力资源循环利用。"
+    },
+    "ginsenoside": {
+      "eyebrow": "验证成果",
+      "title": "人参皂苷分析结果",
+      "subtitle": "韩国食品研究院标准",
+      "items": [
+        {
+          "crop": "新生参（芽苗人参）",
+          "component": "人参皂苷F2",
+          "multiplier": 800,
+          "unit": "倍"
+        },
+        {
+          "crop": "新生桔梗",
+          "component": "皂苷",
+          "multiplier": 12,
+          "unit": "倍"
+        },
+        {
+          "crop": "新生大蒜",
+          "component": "大蒜素",
+          "multiplier": 8,
+          "unit": "倍"
+        }
+      ],
+      "note": "* 与传统栽培作物相比。基于韩国食品研究院分析数据。"
+    },
+    "philosophy": {
+      "quote": "以技术完成自然的循环",
+      "author": "—— CEO 李春吉",
+      "body": "来自大海的螃蟹成为土壤的肥料，由这些肥料培育的芽苗守护人类健康。Elohim Bio 的技术通过科学优化这一自然循环，生产出最优质的功能性作物。"
+    }
+  },
+  "products": {
+    "meta": {
+      "title": "产品介绍 | Elohim Bio",
+      "description": "以培育箱农法栽培的新生参、桔梗和大蒜芽苗。人参皂苷F2含量800倍。"
+    },
+    "hero": {
+      "eyebrow": "产品介绍",
+      "title": "大自然最优质的\n功能性芽苗",
+      "subtitle": "真正的健康在叶和茎中，而非根部"
+    },
+    "sinsaengssam": {
+      "name": "新生参（芽苗人参）",
+      "badge": "畅销产品",
+      "tagline": "护肝、抗癌、增强免疫力的首选",
+      "description": "以培育箱农法栽培的新生参，其叶和茎中的人参皂苷F2含量超过普通人参根部800倍。在无菌环境中零农药栽培，可安全生食。",
+      "keyComponent": "人参皂苷F2",
+      "multiplier": "800倍",
+      "benefits": [
+        "护肝（促进肝细胞再生）",
+        "抗癌特性（抑制癌细胞生长）",
+        "增强免疫力（激活NK细胞）",
+        "抗氧化作用（消除自由基）",
+        "辅助调节血糖"
+      ],
+      "howToEat": "洗净即可生食，也可用于沙拉、果昔或包饭。每日建议摄入量：5-10棵芽苗。",
+      "storage": "冷藏保存（2-5°C），采收后7天内食用",
+      "certification": "已完成韩国食品研究院分析认证"
+    },
+    "doraji": {
+      "name": "新生桔梗（桔梗芽苗）",
+      "tagline": "支气管和呼吸系统健康的天然方案",
+      "description": "以培育箱农法栽培的新生桔梗，皂苷含量比传统栽培桔梗高12倍。采收嫩叶和茎部，口感温和细嫩，生食也很可口。",
+      "keyComponent": "皂苷",
+      "multiplier": "12倍",
+      "benefits": [
+        "支气管和呼吸系统健康（促进排痰）",
+        "消炎作用（缓解慢性炎症）",
+        "增强免疫力",
+        "辅助调节血糖",
+        "抗氧化功效"
+      ],
+      "howToEat": "可生食，也可制作小菜、茶饮或果汁。每日建议摄入量：50-100g。",
+      "storage": "冷藏保存（2-5°C），采收后5天内食用",
+      "certification": "已完成韩国食品研究院分析认证"
+    },
+    "garlic": {
+      "name": "新生大蒜（大蒜芽苗）",
+      "tagline": "心血管健康和免疫力的抗菌食品",
+      "description": "以培育箱农法栽培的新生大蒜，大蒜素含量比普通大蒜高8倍。在芽苗阶段采收，辣味温和，口感爽脆。",
+      "keyComponent": "大蒜素",
+      "multiplier": "8倍",
+      "benefits": [
+        "强效抗菌·抗病毒作用",
+        "心血管健康（调节胆固醇）",
+        "增强免疫力",
+        "抗氧化作用",
+        "消除疲劳"
+      ],
+      "howToEat": "可生食，也可制作凉拌菜、炒菜或腌菜。每日建议摄入量：30-50g。",
+      "storage": "冷藏保存（2-5°C），采收后7天内食用",
+      "certification": "已完成韩国食品研究院分析认证"
+    },
+    "whySprouts": {
+      "eyebrow": "为什么选择芽苗？",
+      "title": "真正的营养在叶和茎中\n而非根部",
+      "description": "植物在发芽后7-15天最旺盛的生长阶段合成最大量的有效成分。Elohim Bio 的芽苗产品在这一营养密度最高的黄金期采收。",
+      "items": [
+        {
+          "title": "浓缩的生长能量",
+          "desc": "芽苗将根部储存的能量转化为叶片生长时，会爆发性地合成有效成分。"
+        },
+        {
+          "title": "99%吸收率",
+          "desc": "嫩芽组织易于快速消化吸收，最大化生物利用率。"
+        },
+        {
+          "title": "安全生食",
+          "desc": "在无菌培育箱环境中生长——零农药、无重金属，可安全生食。"
+        }
+      ]
+    }
+  },
+  "business": {
+    "meta": {
+      "title": "事业领域 | Elohim Bio",
+      "description": "智慧农场、肥料工厂、康养中心——1000亿韩元规模的环保生物农业生态系统。"
+    },
+    "hero": {
+      "eyebrow": "事业领域",
+      "title": "构建环保生物农业生态系统的\n三大支柱",
+      "subtitle": "智慧农场 · 肥料工厂 · 康养中心——三位一体"
+    },
+    "smartfarm": {
+      "eyebrow": "事业一",
+      "title": "智慧农场",
+      "description": "IoT自动化环境控制精确管理温度、湿度、灌溉和光照。在每栋400坪共10栋设施中全年稳定生产高功能作物。",
+      "specs": [
+        {
+          "label": "设施规模",
+          "value": "400坪 × 10栋"
+        },
+        {
+          "label": "栽培作物",
+          "value": "新生参、桔梗、大蒜"
+        },
+        {
+          "label": "控制系统",
+          "value": "IoT自动化（温度、湿度、灌溉、光照）"
+        },
+        {
+          "label": "生产方式",
+          "value": "全年不间断生产"
+        }
+      ]
+    },
+    "factory": {
+      "eyebrow": "事业二",
+      "title": "肥料工厂",
+      "description": "将东海岸红蟹副产品完全分解为液态和粉末生物肥料。运营年产能4,500吨的工厂，助力循环经济发展。",
+      "specs": [
+        {
+          "label": "年产能",
+          "value": "4,500吨"
+        },
+        {
+          "label": "原材料",
+          "value": "东海岸螃蟹副产品（甲壳素/壳聚糖）"
+        },
+        {
+          "label": "产品",
+          "value": "液态肥料 · 粉末肥料"
+        },
+        {
+          "label": "环保效益",
+          "value": "副产品100%资源循环利用"
+        }
+      ]
+    },
+    "healing": {
+      "eyebrow": "事业三",
+      "title": "康养中心",
+      "description": "将功能性芽苗料理与襄阳自然环境相结合的健康空间。以住宿、农场体验和健康项目引领健康旅游。",
+      "specs": [
+        {
+          "label": "地点",
+          "value": "韩国江原道襄阳郡"
+        },
+        {
+          "label": "项目",
+          "value": "住宿 · 农场体验 · 健康料理"
+        },
+        {
+          "label": "特色",
+          "value": "功能性芽苗料理"
+        },
+        {
+          "label": "目标",
+          "value": "2026年开业"
+        }
+      ]
+    },
+    "investment": {
+      "eyebrow": "投资亮点",
+      "title": "具有确定增长潜力的事业",
+      "items": [
+        {
+          "value": "₩1000亿+",
+          "label": "总事业规模"
+        },
+        {
+          "value": "₩400亿",
+          "label": "智慧农场投资"
+        },
+        {
+          "value": "₩300亿",
+          "label": "肥料工厂投资"
+        },
+        {
+          "value": "₩300亿",
+          "label": "康养中心投资"
+        }
+      ]
+    },
+    "roadmap": {
+      "eyebrow": "发展路线图",
+      "title": "增长计划",
+      "items": [
+        {
+          "phase": "第一阶段（2024-2025）",
+          "title": "奠基",
+          "desc": "公司成立、10栋智慧农场设施、肥料工厂试运行"
+        },
+        {
+          "phase": "第二阶段（2025-2026）",
+          "title": "扩张",
+          "desc": "20栋智慧农场设施、肥料量产、康养中心建设"
+        },
+        {
+          "phase": "第三阶段（2026-2027）",
+          "title": "市场进入",
+          "desc": "韩国国内流通、日本及东南亚出口、康养中心开业"
+        },
+        {
+          "phase": "第四阶段（2028-）",
+          "title": "全球拓展",
+          "desc": "中国及中东市场、智慧农场技术出口"
+        }
+      ]
+    },
+    "irCta": {
+      "title": "欢迎投资者",
+      "description": "详细了解 Elohim Bio 的增长潜力和事业计划。",
+      "cta": "前往投资者 IR"
+    }
+  },
+  "ir": {
+    "meta": {
+      "title": "投资者 IR | Elohim Bio",
+      "description": "Elohim Bio 投资者专属信息页面。"
+    },
+    "login": {
+      "title": "投资者专属页面",
+      "subtitle": "请使用由我方代表发放的账号登录",
+      "emailLabel": "电子邮箱",
+      "emailPlaceholder": "investor@example.com",
+      "passwordLabel": "密码",
+      "loginBtn": "登录",
+      "contactHint": "没有账号？",
+      "contactLink": "联系我方代表",
+      "errorInvalid": "邮箱或密码错误。",
+      "errorNotAuthorized": "您没有IR访问权限。请联系我方代表。"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "联系我们 | Elohim Bio",
+      "description": "产品购买、投资、合作伙伴及体验预约——欢迎各类咨询。"
+    },
+    "hero": {
+      "eyebrow": "联系我们",
+      "title": "随时\n联系我们",
+      "subtitle": "从消费者咨询到投资洽谈"
+    },
+    "form": {
+      "typeLabel": "咨询类型",
+      "typeConsumer": "消费者产品咨询",
+      "typeInvestor": "投资者咨询",
+      "typePartnership": "合作伙伴 / B2B",
+      "typeExperience": "农场体验预约",
+      "typeOther": "其他",
+      "nameLabel": "姓名",
+      "namePlaceholder": "请输入姓名",
+      "emailLabel": "电子邮箱",
+      "emailPlaceholder": "example@email.com",
+      "phoneLabel": "电话",
+      "phonePlaceholder": "+82-10-0000-0000",
+      "companyLabel": "公司（选填）",
+      "companyPlaceholder": "公司名称",
+      "messageLabel": "留言",
+      "messagePlaceholder": "请详细描述您的咨询内容。",
+      "privacyLabel": "我同意个人信息的收集和使用。",
+      "privacyLink": "查看隐私政策",
+      "submitBtn": "提交咨询",
+      "submitting": "提交中...",
+      "successTitle": "咨询已提交",
+      "successMessage": "我们将在1-2个工作日内回复。",
+      "errorMessage": "发生错误，请稍后重试。",
+      "required": "必填"
+    },
+    "info": {
+      "title": "联系方式",
+      "email": "info@elohimbio.com",
+      "location": "韩国江原道襄阳郡",
+      "responseTime": "平均回复时间：1-2个工作日"
+    }
+  },
+  "board": {
+    "meta": {
+      "title": "公告板 | Elohim Bio",
+      "description": "Elohim Bio 公告板——自由分享和下载资料。"
+    },
+    "title": "公告板",
+    "subtitle": "自由分享和下载资料",
+    "writeBtn": "发帖",
+    "table": {
+      "number": "编号",
+      "title": "标题",
+      "author": "作者",
+      "date": "日期",
+      "views": "阅读数",
+      "files": "附件"
+    },
+    "empty": "暂无帖子。",
+    "pagination": {
+      "prev": "上一页",
+      "next": "下一页"
+    },
+    "write": {
+      "title": "发布新帖",
+      "titleLabel": "标题",
+      "titlePlaceholder": "请输入标题",
+      "authorLabel": "作者",
+      "authorPlaceholder": "请输入姓名",
+      "passwordLabel": "密码（删除时需要）",
+      "passwordPlaceholder": "至少4个字符",
+      "contentLabel": "内容",
+      "contentPlaceholder": "请输入内容",
+      "fileLabel": "附件（最多3个，每个不超过10MB）",
+      "fileBtn": "选择文件",
+      "fileSelected": "个文件已选择",
+      "submitBtn": "提交",
+      "submitting": "提交中...",
+      "cancelBtn": "取消",
+      "errorRequired": "请填写所有必填项。",
+      "errorFileSize": "每个文件不得超过10MB。",
+      "errorFileCount": "最多可添加3个附件。",
+      "errorSubmit": "发生错误，请重试。"
+    },
+    "detail": {
+      "backToList": "返回列表",
+      "author": "作者",
+      "date": "日期",
+      "views": "阅读数",
+      "files": "附件",
+      "download": "下载",
+      "deleteBtn": "删除",
+      "deleteConfirm": "确定要删除此帖子吗？",
+      "deletePasswordLabel": "请输入密码",
+      "deletePasswordPlaceholder": "发帖时设置的密码",
+      "deleteSubmit": "确认删除",
+      "deleteCancel": "取消",
+      "deleteSuccess": "帖子已删除。",
+      "deleteErrorPassword": "密码错误。",
+      "deleteError": "删除时发生错误。",
+      "notFound": "未找到该帖子。"
+    }
+  },
+  "seo": {
+    "defaultTitle": "Elohim Bio | 培育箱农法功能性芽苗",
+    "defaultDescription": "以30年培育箱农法技术和海洋生物肥料栽培的高功能新生参、桔梗和大蒜，人参皂苷F2含量800倍。",
+    "ogImageAlt": "Elohim Bio——功能性芽苗农业创新"
+  }
+}

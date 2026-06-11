@@ -1,0 +1,518 @@
+{
+  "common": {
+    "siteName": "Elohim Bio",
+    "siteTagline": "A Miracle Born from the Deep Sea, Perfected in Sprouts",
+    "ctaProduct": "View Products",
+    "ctaInvestor": "Investor IR",
+    "ctaContact": "Contact Us",
+    "ctaLearnMore": "Learn More",
+    "ctaDownload": "Download",
+    "ctaApply": "Apply for Experience",
+    "navAbout": "About",
+    "navTechnology": "Technology",
+    "navProducts": "Products",
+    "navBusiness": "Business",
+    "navBoard": "Board",
+    "navIR": "Investor IR",
+    "navContact": "Contact",
+    "footerPrivacy": "Privacy Policy",
+    "footerCopyright": "© 2025 Elohim Bio. All rights reserved.",
+    "footerAddress": "75 Seongju-ro, Janghowon-eup, Icheon-si, Gyeonggi-do",
+    "footerEmail": "info@elohimbio.com",
+    "langSelect": "Language"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "The fruit of 30 years of know-how",
+      "title": "A miracle born from the deep sea,\nperfected in a single sprout",
+      "subtitle": "High-function sprout ginseng, balloon flower and garlic —\ngrown with snow-crab marine bio-fertilizer and our incubator farming method",
+      "ctaPrimary": "Explore Products",
+      "ctaSecondary": "Investor Relations",
+      "imageAlt": "Elohim Bio incubator farming smart farm",
+      "badgeNum": "800×",
+      "badgeLbl": "Ginsenoside F2 vs. ordinary ginseng",
+      "scrollCue": "Scroll"
+    },
+    "stats": {
+      "eyebrow": "Elohim Bio in Numbers",
+      "title": "Proven Technology, Verified Results",
+      "items": [
+        { "value": 30, "suffix": "yr+", "label": "Years of agri-tech R&D" },
+        { "value": 800, "suffix": "×", "label": "Ginsenoside F2 content\n(vs. ordinary ginseng)" },
+        { "value": 4500, "suffix": "t", "label": "Snow-crab processed annually" },
+        { "value": 99, "suffix": "%", "label": "Active-compound absorption" }
+      ]
+    },
+    "philosophy": {
+      "eyebrow": "Our Philosophy",
+      "quote": "Why we don't eat the root",
+      "body": "Elohim Bio harvests only the leaves and stems — the sprout — of ginseng, balloon flower and garlic. Far more active compounds concentrate in the sprout than in the root, and the body absorbs them dramatically better. This is our philosophy, and our difference.",
+      "points": [
+        "Active compounds concentrate in the sprout, not the root",
+        "Markedly higher human absorption rate",
+        "Pesticide-free, sustainable cultivation"
+      ],
+      "tagMain": "Sprout over root",
+      "tagSub": "Leaves & stems hold higher functional content"
+    },
+    "potency": {
+      "eyebrow": "Compound Comparison",
+      "title": "Differentiation, proven in numbers",
+      "subtitle": "Functional-compound content no conventional method can match — on the same growing area",
+      "note": "* Versus conventionally grown produce, based on internal compound analysis.",
+      "baseLabel": "ordinary = 1×",
+      "bars": [
+        { "label": "Sprout Ginseng", "component": "Ginsenoside F2", "multiplier": 800, "unit": "×", "pct": 100 },
+        { "label": "Sprout Balloon Flower", "component": "Saponin", "multiplier": 600, "unit": "×", "pct": 75 },
+        { "label": "Sprout Garlic", "component": "Allicin", "multiplier": 350, "unit": "×", "pct": 44 }
+      ]
+    },
+    "incubator": {
+      "eyebrow": "Core Technology 01",
+      "title": "Incubator Farming",
+      "subtitle": "Not a single drop of water wasted",
+      "body": "A special film completely isolates the growing environment, blocking nematodes and pathogens. The crop absorbs nearly all of the nutrient solution. Versus conventional bench cultivation it cuts water and fertilizer use by over 80% — while raising compound content hundreds of times.",
+      "waterNum": "80%",
+      "waterText": "Less water used than\nconventional bench farming",
+      "tableTitle": "Incubator method vs. bench cultivation",
+      "tableHeaders": ["Criterion", "Bench cultivation", "Incubator method"],
+      "tableRows": [
+        ["Nematodes & pathogens", "Breed in soil, damage roots", "Fully blocked by stone-wool"],
+        ["Irrigation frequency", "5–9 times daily", "Once every 15 days"],
+        ["Nutrient efficiency", "Wasted as run-off, costly", "Mostly absorbed by the crop"],
+        ["Continuous cropping", "Salt build-up, yield loss", "Controlled by film, none"],
+        ["Growing-medium cost", "Costly to replace", "About 5% of conventional"],
+        ["Environmental impact", "Soil polluted by agrochemicals", "No chemical fertilizer, eco-friendly"]
+      ],
+      "cta": "View Technology Details"
+    },
+    "growth": {
+      "eyebrow": "42-Day Cycle",
+      "title": "From seedling to sprout in 42 days",
+      "subtitle": "Tracked daily under a fully controlled incubator environment",
+      "stages": [
+        { "day": "Day 1", "desc": "Seedling planted" },
+        { "day": "Day 7", "desc": "Stem elongation begins" },
+        { "day": "Day 11", "desc": "Leaves expand" },
+        { "day": "Day 15", "desc": "Canopy forms" }
+      ]
+    },
+    "process": {
+      "eyebrow": "Core Technology 02",
+      "title": "Snow-Crab Marine Bio-Fertilizer",
+      "subtitle": "Deep-sea energy captured in a sprout — crustacean by-products fully decomposed into high-function organic fertilizer",
+      "steps": [
+        { "step": "STEP 01", "title": "Collection", "desc": "4,500 t of crab shells & viscera per year" },
+        { "step": "STEP 02", "title": "Primary processing", "desc": "Dried & milled into powdered compost" },
+        { "step": "STEP 03", "title": "Secondary processing", "desc": "Natural bio-tech yields liquid nutrient" },
+        { "step": "STEP 04", "title": "Finished product", "desc": "Powder fertilizer & liquid nutrient shipped" }
+      ],
+      "footerNum": "4,500 t",
+      "footerLabel": "Snow-crab by-products processed annually"
+    },
+    "business": {
+      "eyebrow": "Three Core Businesses",
+      "title": "Three Innovations Where Nature Meets Science",
+      "smartfarm": "Smart Farm",
+      "smartfarmDesc": "IoT-automated climate control for year-round high-function produce. 400 pyeong × 10 houses.",
+      "factory": "Fertilizer Plant",
+      "factoryDesc": "Crab by-products fully decomposed into liquid & powder bio-fertilizer. 4,500 t / year.",
+      "healing": "Healing Center",
+      "healingDesc": "Wellness experience pairing functional sprout cuisine with nature. Stay & programs to come."
+    },
+    "products": {
+      "eyebrow": "Signature Products",
+      "title": "The Finest Functional Sprouts, Grown by Nature",
+      "subtitle": "Real wellness, found in the leaves and stems — not the root",
+      "cta": "View All Products",
+      "cards": [
+        { "components": ["Ginsenoside F2", "Rh2", "Saponin", "Polyphenol"] },
+        { "components": ["Saponin 600×", "Inulin", "Beta-sitosterol"] },
+        { "components": ["Allicin 350×", "Selenium", "Quercetin"] }
+      ]
+    },
+    "historyTimeline": {
+      "eyebrow": "Heritage",
+      "title": "CEO Lee Chun-gil's 30-year journey",
+      "subtitle": "From fertilizer development in 1989 to the 2023 breakthrough in ginsenoside F2",
+      "events": [
+        { "year": "1989", "event": "Fertilizer development begins", "major": true },
+        { "year": "1993", "event": "Fruit growth-capsule — apple & pear", "major": false },
+        { "year": "1997", "event": "Cube watermelon & shaped cucumber", "major": false },
+        { "year": "2004", "event": "Incubator cucumber & squash film", "major": false },
+        { "year": "2006", "event": "Natural bio plant established", "major": true },
+        { "year": "2010", "event": "Non-browning ginseng, garlic, potato", "major": false },
+        { "year": "2012", "event": "High ginsenoside content secured", "major": false },
+        { "year": "2014", "event": "Wool-lite strawberry & tomato method", "major": false },
+        { "year": "2018", "event": "Organic sprout-ginseng seedling R&D", "major": true },
+        { "year": "2023", "event": "Breakthrough: high ginsenoside F2", "major": true },
+        { "year": "2025", "event": "Elohim Bio smart-farm build begins", "major": true }
+      ]
+    },
+    "ctaBanner": {
+      "title": "Build a Healthier Future\nwith Elohim Bio",
+      "subtitle": "From product inquiries to investment consultations, we're here for you.",
+      "ctaConsumer": "Consumer Inquiry",
+      "ctaInvestor": "Investor Inquiry"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "About | Elohim Bio",
+      "description": "Discover the vision and 30-year history behind Elohim Bio's agricultural innovation."
+    },
+    "hero": {
+      "eyebrow": "About Us",
+      "title": "30 Years of Dedication\nDriving Innovation",
+      "subtitle": "CEO Lee Chun-gil's journey, from fertilizer development in 1989\nto the breakthrough Ginsenoside F2 discovery in 2023."
+    },
+    "vision": {
+      "eyebrow": "Vision & Mission",
+      "title": "Maximizing Nature's Power\nto Improve Human Health",
+      "vision": "Vision: Lead the global functional crop market with incubator farming and marine bio-fertilizer technology, establishing Yangyang as a global bio-agriculture hub.",
+      "mission": "Mission: Build a mass production and distribution system for high-functional sprout crops based on 30 years of accumulated technology, contributing to health improvement and regional economic growth.",
+      "philosophy": {
+        "title": "Learning from Nature, Perfecting with Science",
+        "body": "Elohim Bio combines the power of sea and land. Chitin and chitosan bio-fertilizer extracted from crab by-products awakens the soil's potential, while incubator farming maximizes the plant's capabilities. Our philosophy is to work with nature, elevating it through science."
+      }
+    },
+    "ceo": {
+      "name": "Lee Chun-gil",
+      "title": "CEO / Founder",
+      "bio": "Since 1989, CEO Lee Chun-gil has devoted himself to agricultural technology development. He gained recognition with the development of square cucumbers and Taegeuk cucumbers in 1997, then spent over 30 years researching marine bio-fertilizers and incubator farming. In 2023, he succeeded in developing Sinsaengssam containing 800 times more Ginsenoside F2 than regular ginseng, opening new horizons in the functional crop market."
+    },
+    "history": {
+      "eyebrow": "History",
+      "title": "30 Years of Milestones",
+      "items": [
+        { "year": "1989", "event": "CEO Lee Chun-gil begins agricultural technology research — fertilizer development" },
+        { "year": "1997", "event": "Square cucumber & Taegeuk cucumber development — pioneering crop innovation" },
+        { "year": "2005", "event": "Marine bio-fertilizer R&D from red crab by-products begins" },
+        { "year": "2015", "event": "Incubator farming patent filed — specialized film isolation system established" },
+        { "year": "2020", "event": "Chitin & chitosan bio-fertilizer completed — 4,500-ton annual capacity secured" },
+        { "year": "2023", "event": "800x Ginsenoside F2 achieved — Sinsaengssam development success" },
+        { "year": "2024", "event": "Elohim Bio incorporated — Smart Farm, Fertilizer Plant, Healing Center launched" },
+        { "year": "2025", "event": "Yangyang Smart Farm 10 facilities in full operation — mass production begins" }
+      ]
+    },
+    "strengths": {
+      "eyebrow": "Core Strengths",
+      "title": "Our Competitive Edge",
+      "items": [
+        { "title": "30 Years of Expertise", "desc": "Field experience and know-how accumulated from fertilizer development to incubator farming" },
+        { "title": "Patented Technology", "desc": "Core patents in incubator farming and marine bio-fertilizer systems" },
+        { "title": "Proven Results", "desc": "Korea Food Research Institute verified — 800x Ginsenoside F2 content confirmed" },
+        { "title": "Vertical Integration", "desc": "End-to-end control from raw materials (crab) to fertilizer, cultivation, processing, and distribution" }
+      ]
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "Technology | Elohim Bio",
+      "description": "Discover incubator farming and marine bio-fertilizer technology that achieves 800x Ginsenoside F2 levels."
+    },
+    "hero": {
+      "eyebrow": "Core Technology",
+      "title": "Maximizing Nature's Power\nThrough Science",
+      "subtitle": "Two core technologies combine to make the impossible possible"
+    },
+    "incubator": {
+      "eyebrow": "Technology 1",
+      "title": "Incubator Farming",
+      "subtitle": "Isolated Growing System with Specialized Film",
+      "description": "Crops are grown in a sterile environment isolated by specialized film. This completely blocks nematodes and pathogens while precisely controlling nutrients and moisture to maximize active compound content. Uses 80% less water than conventional farming with zero pesticide use.",
+      "advantages": [
+        "Complete pathogen and nematode barrier with specialized film",
+        "80% water reduction (precision irrigation system)",
+        "Zero pesticides — 100% eco-friendly cultivation",
+        "Precision nutrient control maximizes active compounds",
+        "Year-round stable production (season-independent)"
+      ],
+      "comparisonTitle": "Conventional vs. Incubator Farming"
+    },
+    "comparison": {
+      "headers": ["Category", "Conventional", "Incubator Farming"],
+      "rows": [
+        ["Environment", "Open field or standard greenhouse", "Sterile film-isolated environment"],
+        ["Water Usage", "100% (baseline)", "20% (80% reduction)"],
+        ["Pesticides", "Required (pest control)", "Unnecessary (complete barrier)"],
+        ["Pathogen Control", "Limited", "100% blocked"],
+        ["Compound Content", "Standard", "Ginsenoside F2 800x"],
+        ["Production Period", "Seasonal", "Year-round"]
+      ]
+    },
+    "fertilizer": {
+      "eyebrow": "Technology 2",
+      "title": "Crab Marine Bio-Fertilizer",
+      "subtitle": "Chitin & Chitosan-based Organic Fertilizer",
+      "description": "Chitin and chitosan are extracted from red crab by-products (shells) from Korea's East Coast, fully decomposed into liquid and powder bio-fertilizers. These fertilizers boost plant immunity and promote active compound synthesis. Processing 4,500 tons of crab by-products annually also contributes to resource circulation."
+    },
+    "ginsenoside": {
+      "eyebrow": "Proven Results",
+      "title": "Ginsenoside Analysis Results",
+      "subtitle": "Korea Food Research Institute standards",
+      "items": [
+        { "crop": "Sinsaengssam (Sprout Ginseng)", "component": "Ginsenoside F2", "multiplier": 800, "unit": "x" },
+        { "crop": "Sinsaeng Doraji", "component": "Saponin", "multiplier": 12, "unit": "x" },
+        { "crop": "Sinsaeng Garlic", "component": "Allicin", "multiplier": 8, "unit": "x" }
+      ],
+      "note": "* Compared to conventionally grown crops. Based on Korea Food Research Institute analysis."
+    },
+    "philosophy": {
+      "quote": "Completing Nature's Cycle Through Technology",
+      "author": "— CEO Lee Chun-gil",
+      "body": "Crabs from the sea become fertilizer for the soil, and sprouts grown from that fertilizer protect human health. Elohim Bio's technology optimizes this natural cycle through science to produce the finest functional crops."
+    }
+  },
+  "products": {
+    "meta": {
+      "title": "Products | Elohim Bio",
+      "description": "Sinsaengssam, Doraji, and Garlic sprouts grown with incubator farming. 800x Ginsenoside F2 content."
+    },
+    "hero": {
+      "eyebrow": "Products",
+      "title": "Nature's Finest\nFunctional Sprouts",
+      "subtitle": "True health found in leaves and stems, not roots"
+    },
+    "sinsaengssam": {
+      "name": "Sinsaengssam (Sprout Ginseng)",
+      "badge": "Bestseller",
+      "tagline": "The ultimate choice for liver health, anti-cancer care, and immunity",
+      "description": "Grown with incubator farming, Sinsaengssam contains over 800 times more Ginsenoside F2 in its leaves and stems compared to regular ginseng roots. Cultivated pesticide-free in a sterile environment, it can be safely consumed raw.",
+      "keyComponent": "Ginsenoside F2",
+      "multiplier": "800x",
+      "benefits": ["Liver protection (promotes liver cell regeneration)", "Anti-cancer properties (inhibits cancer cell growth)", "Immune boost (NK cell activation)", "Antioxidant action (free radical elimination)", "Blood sugar regulation support"],
+      "howToEat": "Wash and eat raw, or use in salads, smoothies, or wraps. Recommended daily intake: 5-10 sprouts.",
+      "storage": "Refrigerate (2-5°C), consume within 7 days of harvest",
+      "certification": "Korea Food Research Institute analysis completed"
+    },
+    "doraji": {
+      "name": "Sinsaeng Doraji (Sprout Bellflower Root)",
+      "tagline": "Nature's solution for bronchial and respiratory health",
+      "description": "Incubator-farmed Sinsaeng Doraji contains 12 times more saponins than conventionally grown bellflower root. Young leaves and stems are harvested for a mild, tender taste that's enjoyable even raw.",
+      "keyComponent": "Saponin",
+      "multiplier": "12x",
+      "benefits": ["Bronchial & respiratory health (promotes phlegm discharge)", "Anti-inflammatory action (chronic inflammation relief)", "Immune enhancement", "Blood sugar regulation support", "Antioxidant effects"],
+      "howToEat": "Eat raw, or prepare as side dish, tea, or juice. Recommended daily intake: 50-100g.",
+      "storage": "Refrigerate (2-5°C), consume within 5 days of harvest",
+      "certification": "Korea Food Research Institute analysis completed"
+    },
+    "garlic": {
+      "name": "Sinsaeng Garlic (Sprout Garlic)",
+      "tagline": "Antibacterial food for cardiovascular health and immunity",
+      "description": "Incubator-farmed Sinsaeng Garlic contains 8 times more allicin than regular garlic. Harvested at the sprout stage, it features a mild spiciness and crisp texture.",
+      "keyComponent": "Allicin",
+      "multiplier": "8x",
+      "benefits": ["Powerful antibacterial & antiviral action", "Cardiovascular health (cholesterol regulation)", "Immune boost", "Antioxidant action", "Fatigue recovery"],
+      "howToEat": "Eat raw, or prepare as seasoned salad, stir-fry, or pickles. Recommended daily intake: 30-50g.",
+      "storage": "Refrigerate (2-5°C), consume within 7 days of harvest",
+      "certification": "Korea Food Research Institute analysis completed"
+    },
+    "whySprouts": {
+      "eyebrow": "Why Sprouts?",
+      "title": "True Nutrition Lives in\nLeaves and Stems, Not Roots",
+      "description": "Plants synthesize maximum active compounds during their most vigorous growth phase, 7-15 days after germination. Elohim Bio's sprout products are harvested during this golden period for peak nutritional density.",
+      "items": [
+        { "title": "Concentrated Growth Energy", "desc": "Sprouts explosively synthesize active compounds as they convert root-stored energy into leaf growth." },
+        { "title": "99% Absorption Rate", "desc": "Tender sprout tissue enables rapid digestion and absorption, maximizing bioavailability." },
+        { "title": "Safe Raw Consumption", "desc": "Grown in a sterile incubator environment — no pesticides, no heavy metals, safe to eat raw." }
+      ]
+    }
+  },
+  "business": {
+    "meta": {
+      "title": "Business | Elohim Bio",
+      "description": "Smart Farm, Fertilizer Plant, and Healing Center — a 100 billion KRW eco-friendly bio-agriculture ecosystem."
+    },
+    "hero": {
+      "eyebrow": "Business",
+      "title": "Three Pillars Building an\nEco-friendly Bio-Agriculture Ecosystem",
+      "subtitle": "Smart Farm · Fertilizer Plant · Healing Center — all connected"
+    },
+    "smartfarm": {
+      "eyebrow": "Business 1",
+      "title": "Smart Farm",
+      "description": "IoT-automated climate control precisely manages temperature, humidity, irrigation, and lighting. Year-round stable production of high-functional crops across 10 facilities of 400 pyeong each.",
+      "specs": [
+        { "label": "Facility Size", "value": "400 pyeong × 10 units" },
+        { "label": "Crops", "value": "Sinsaengssam, Doraji, Garlic" },
+        { "label": "Control System", "value": "IoT automation (temp, humidity, irrigation, light)" },
+        { "label": "Production", "value": "Year-round, non-stop" }
+      ]
+    },
+    "factory": {
+      "eyebrow": "Business 2",
+      "title": "Fertilizer Plant",
+      "description": "Fully decomposes East Coast red crab by-products into liquid and powder bio-fertilizers. Operating a 4,500-ton annual capacity plant, contributing to the circular resource economy.",
+      "specs": [
+        { "label": "Annual Capacity", "value": "4,500 tons" },
+        { "label": "Raw Material", "value": "East Coast crab by-products (chitin/chitosan)" },
+        { "label": "Products", "value": "Liquid fertilizer · Powder fertilizer" },
+        { "label": "Environmental Impact", "value": "100% by-product resource circulation" }
+      ]
+    },
+    "healing": {
+      "eyebrow": "Business 3",
+      "title": "Healing Center",
+      "description": "A wellness space combining functional sprout cuisine with Yangyang's natural environment. Leading wellness tourism with accommodation, farm experience, and health programs.",
+      "specs": [
+        { "label": "Location", "value": "Yangyang-gun, Gangwon Province" },
+        { "label": "Programs", "value": "Accommodation · Farm experience · Health cuisine" },
+        { "label": "Specialty", "value": "Functional sprout cuisine" },
+        { "label": "Target", "value": "Opening in 2026" }
+      ]
+    },
+    "investment": {
+      "eyebrow": "Investment Highlights",
+      "title": "A Business with Proven Growth Potential",
+      "items": [
+        { "value": "₩100B+", "label": "Total Business Scale" },
+        { "value": "₩40B", "label": "Smart Farm Investment" },
+        { "value": "₩30B", "label": "Fertilizer Plant Investment" },
+        { "value": "₩30B", "label": "Healing Center Investment" }
+      ]
+    },
+    "roadmap": {
+      "eyebrow": "Roadmap",
+      "title": "Growth Plan",
+      "items": [
+        { "phase": "Phase 1 (2024–2025)", "title": "Foundation", "desc": "Incorporation, 10 smart farm facilities, fertilizer plant trial run" },
+        { "phase": "Phase 2 (2025–2026)", "title": "Expansion", "desc": "20 smart farm facilities, mass fertilizer production, healing center construction" },
+        { "phase": "Phase 3 (2026–2027)", "title": "Market Entry", "desc": "Domestic distribution, Japan & SE Asia exports, healing center opening" },
+        { "phase": "Phase 4 (2028–)", "title": "Global Expansion", "desc": "China & Middle East markets, smart farm technology export" }
+      ]
+    },
+    "irCta": {
+      "title": "Welcome, Investors",
+      "description": "Explore Elohim Bio's growth potential and business plans in detail.",
+      "cta": "Go to Investor IR"
+    }
+  },
+  "ir": {
+    "meta": {
+      "title": "Investor IR | Elohim Bio",
+      "description": "Exclusive investor information page for Elohim Bio."
+    },
+    "login": {
+      "title": "Investor-Only Page",
+      "subtitle": "Log in with your credentials issued by our representative",
+      "emailLabel": "Email",
+      "emailPlaceholder": "investor@example.com",
+      "passwordLabel": "Password",
+      "loginBtn": "Log In",
+      "contactHint": "Don't have an account?",
+      "contactLink": "Contact our representative",
+      "errorInvalid": "Invalid email or password.",
+      "errorNotAuthorized": "You do not have IR access. Please contact our representative."
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact | Elohim Bio",
+      "description": "Product purchases, investments, partnerships, and experience bookings — we welcome all inquiries."
+    },
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Get in Touch\nAnytime",
+      "subtitle": "From consumer inquiries to investment consultations"
+    },
+    "form": {
+      "typeLabel": "Inquiry Type",
+      "typeConsumer": "Consumer Product Inquiry",
+      "typeInvestor": "Investor Inquiry",
+      "typePartnership": "Partnership / B2B",
+      "typeExperience": "Farm Experience Booking",
+      "typeOther": "Other",
+      "nameLabel": "Name",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "Email",
+      "emailPlaceholder": "example@email.com",
+      "phoneLabel": "Phone",
+      "phonePlaceholder": "+82-10-0000-0000",
+      "companyLabel": "Company (optional)",
+      "companyPlaceholder": "Company name",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Please describe your inquiry.",
+      "privacyLabel": "I agree to the collection and use of personal information.",
+      "privacyLink": "View Privacy Policy",
+      "submitBtn": "Send Inquiry",
+      "submitting": "Sending...",
+      "successTitle": "Inquiry Submitted",
+      "successMessage": "We will respond within 1-2 business days.",
+      "errorMessage": "An error occurred. Please try again later.",
+      "required": "Required"
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "info@elohimbio.com",
+      "location": "Yangyang-gun, Gangwon Province, South Korea",
+      "responseTime": "Average response time: 1-2 business days"
+    }
+  },
+  "board": {
+    "meta": {
+      "title": "Board | Elohim Bio",
+      "description": "Elohim Bio Board — Share and download resources freely."
+    },
+    "title": "Board",
+    "subtitle": "Share and download resources freely",
+    "writeBtn": "Write",
+    "table": {
+      "number": "No.",
+      "title": "Title",
+      "author": "Author",
+      "date": "Date",
+      "views": "Views",
+      "files": "Files"
+    },
+    "empty": "No posts yet.",
+    "pagination": {
+      "prev": "Prev",
+      "next": "Next"
+    },
+    "write": {
+      "title": "New Post",
+      "titleLabel": "Title",
+      "titlePlaceholder": "Enter title",
+      "authorLabel": "Author",
+      "authorPlaceholder": "Enter your name",
+      "passwordLabel": "Password (required for deletion)",
+      "passwordPlaceholder": "At least 4 characters",
+      "contentLabel": "Content",
+      "contentPlaceholder": "Enter content",
+      "fileLabel": "Attachments (max 3, 10MB each)",
+      "fileBtn": "Choose Files",
+      "fileSelected": "file(s) selected",
+      "submitBtn": "Submit",
+      "submitting": "Submitting...",
+      "cancelBtn": "Cancel",
+      "errorRequired": "Please fill in all required fields.",
+      "errorFileSize": "Each file must be under 10MB.",
+      "errorFileCount": "You can attach up to 3 files.",
+      "errorSubmit": "An error occurred. Please try again."
+    },
+    "detail": {
+      "backToList": "Back to List",
+      "author": "Author",
+      "date": "Date",
+      "views": "Views",
+      "files": "Attachments",
+      "download": "Download",
+      "deleteBtn": "Delete",
+      "deleteConfirm": "Are you sure you want to delete this post?",
+      "deletePasswordLabel": "Enter password",
+      "deletePasswordPlaceholder": "Password used when writing",
+      "deleteSubmit": "Confirm Delete",
+      "deleteCancel": "Cancel",
+      "deleteSuccess": "Post deleted.",
+      "deleteErrorPassword": "Incorrect password.",
+      "deleteError": "An error occurred while deleting.",
+      "notFound": "Post not found."
+    }
+  },
+  "seo": {
+    "defaultTitle": "Elohim Bio | Functional Sprouts via Incubator Farming",
+    "defaultDescription": "High-functional Sinsaengssam, Doraji, and Garlic with 800x Ginsenoside F2, grown using 30 years of incubator farming technology and marine bio-fertilizer.",
+    "ogImageAlt": "Elohim Bio — Functional Sprout Agriculture Innovation"
+  }
+}

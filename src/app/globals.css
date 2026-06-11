@@ -1,26 +1,184 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-forest: #1B4332;
+  --color-forest-2: #143528;
+  --color-sage: #2D6A4F;
+  --color-moss: #52B788;
+  --color-fern: #95D5B2;
+  --color-fern-2: #C7E8D3;
+  --color-cream: #F8F5F0;
+  --color-gold: #B7882C;
+  --color-gold-light: #D4A847;
+  --color-gold-deep: #8A6418;
+  --color-charcoal: #1C1C1E;
+  --color-slate: #4B5563;
+  --color-slate-2: #6B7280;
+  --color-mist: #F1F5F4;
+  --color-line: #E4E0D8;
+
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Inter', sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-charcoal);
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+
+  /* Korean / Japanese / Chinese fonts */
+  :lang(ko) {
+    --font-heading: 'Noto Serif KR', serif;
+    --font-body: 'Noto Sans KR', sans-serif;
+  }
+
+  :lang(ja) {
+    --font-heading: 'Noto Serif JP', serif;
+    --font-body: 'Noto Sans JP', sans-serif;
+  }
+
+  :lang(zh-CN), :lang(zh-Hans) {
+    --font-heading: 'Noto Serif SC', serif;
+    --font-body: 'Noto Sans SC', sans-serif;
+  }
+
+  :lang(zh-TW), :lang(zh-Hant) {
+    --font-heading: 'Noto Serif TC', serif;
+    --font-body: 'Noto Sans TC', sans-serif;
+  }
+
+  /* Arabic — RTL */
+  :lang(ar) {
+    --font-heading: 'Noto Naskh Arabic', serif;
+    --font-body: 'Noto Sans Arabic', sans-serif;
+  }
+
+  /* Hindi */
+  :lang(hi) {
+    --font-heading: 'Noto Serif Devanagari', serif;
+    --font-body: 'Noto Sans Devanagari', sans-serif;
+  }
+
+  /* Word-break for CJK languages */
+  :lang(ko), :lang(ja), :lang(zh-CN), :lang(zh-TW) {
+    word-break: keep-all;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* ============================================================
+   Scroll Reveal Animations
+   ============================================================ */
+.scroll-reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.7s cubic-bezier(.22,.61,.36,1),
+              transform 0.7s cubic-bezier(.22,.61,.36,1);
+}
+
+.scroll-reveal.revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scroll-reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* ============================================================
+   Hero Animations
+   ============================================================ */
+@keyframes heroZoom {
+  from { transform: scale(1.08); }
+  to { transform: scale(1); }
+}
+
+@keyframes scrollDot {
+  0%   { opacity: 0; transform: translateY(0); }
+  40%  { opacity: 1; }
+  100% { opacity: 0; transform: translateY(10px); }
+}
+
+.hero-bg-zoom {
+  animation: heroZoom 14s ease-out forwards;
+}
+
+.scroll-cue-dot {
+  animation: scrollDot 1.6s ease-in-out infinite;
+}
+
+/* ============================================================
+   History Timeline Scroll
+   ============================================================ */
+.hist-scroll {
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+}
+
+.hist-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+
+.hist-scroll::-webkit-scrollbar-track {
+  background: rgba(255,255,255,.08);
+  border-radius: 3px;
+}
+
+.hist-scroll::-webkit-scrollbar-thumb {
+  background: var(--color-moss);
+  border-radius: 3px;
+}
+
+/* ============================================================
+   Comparison Table
+   ============================================================ */
+.compare-table {
+  border: 1px solid var(--color-line);
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.compare-table th,
+.compare-table td {
+  padding: 14px 18px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.compare-table thead th {
+  background: var(--color-forest);
+  color: white;
+  font-weight: 600;
+}
+
+.compare-table thead th:last-child {
+  background: var(--color-sage);
+}
+
+.compare-table tbody tr:nth-child(even) {
+  background: var(--color-cream);
+}
+
+.compare-table tbody td:first-child {
+  font-weight: 600;
+  color: var(--color-charcoal);
+}
+
+.compare-table tbody td:last-child {
+  color: var(--color-forest);
+  font-weight: 600;
 }

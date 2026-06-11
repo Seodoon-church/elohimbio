@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <circle cx="32" cy="32" r="32" fill="#1B4332"/>
+  <circle cx="32" cy="32" r="26" fill="#2D6A4F"/>
+  <!-- Leaf/sprout shape -->
+  <path d="M32 16 C26 22, 20 30, 22 40 C24 46, 28 48, 32 48 C36 48, 40 46, 42 40 C44 30, 38 22, 32 16Z" fill="#52B788" opacity="0.9"/>
+  <path d="M32 20 C29 26, 26 32, 27 38 C28 42, 30 44, 32 44 C34 44, 36 42, 37 38 C38 32, 35 26, 32 20Z" fill="#95D5B2" opacity="0.8"/>
+  <!-- Center circle (person/seed) -->
+  <circle cx="32" cy="30" r="5" fill="#1B4332"/>
+  <!-- Stem line -->
+  <line x1="32" y1="35" x2="32" y2="46" stroke="#1B4332" stroke-width="2" stroke-linecap="round"/>
+</svg>

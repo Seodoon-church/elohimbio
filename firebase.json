@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "elohim-bio",
+    "source": ".",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "frameworksBackend": {
+      "region": "asia-northeast3",
+      "runtime": "nodejs22"
+    }
+  }
+}

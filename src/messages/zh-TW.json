@@ -1,0 +1,841 @@
+{
+  "common": {
+    "siteName": "Elohim Bio",
+    "siteTagline": "源自深海的奇蹟，在嫩芽中臻至完美",
+    "ctaProduct": "查看產品",
+    "ctaInvestor": "投資者 IR",
+    "ctaContact": "聯絡我們",
+    "ctaLearnMore": "了解更多",
+    "ctaDownload": "下載資料",
+    "ctaApply": "申請體驗",
+    "navAbout": "關於我們",
+    "navTechnology": "核心技術",
+    "navProducts": "產品",
+    "navBusiness": "事業介紹",
+    "navBoard": "資料室",
+    "navIR": "投資者 IR",
+    "navContact": "聯絡我們",
+    "footerPrivacy": "隱私權政策",
+    "footerCopyright": "© 2025 Elohim Bio. All rights reserved.",
+    "footerAddress": "京畿道利川市長湖院邑聖州路75號",
+    "footerEmail": "info@elohimbio.com",
+    "langSelect": "語言選擇"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "30年知識積累的結晶",
+      "title": "源自深海的奇蹟，\n在芽苗中臻至完美",
+      "subtitle": "高機能芽苗新生參、桔梗芽苗與大蒜芽苗——\n採用紅蟹海洋生物肥料與培育箱農法栽培",
+      "ctaPrimary": "探索產品",
+      "ctaSecondary": "投資者關係",
+      "imageAlt": "Elohim Bio 培育箱農法智慧農場",
+      "badgeNum": "800×",
+      "badgeLbl": "人參皂苷 F2 與普通人參的比較",
+      "scrollCue": "向下滾動"
+    },
+    "stats": {
+      "eyebrow": "Elohim Bio 數據概覽",
+      "title": "經過驗證的技術、已驗證的成果",
+      "items": [
+        {
+          "value": 30,
+          "suffix": "年+",
+          "label": "農業科技研發年數"
+        },
+        {
+          "value": 800,
+          "suffix": "×",
+          "label": "人參皂苷 F2 含量\n（與普通人參相比）"
+        },
+        {
+          "value": 4500,
+          "suffix": "噸",
+          "label": "紅蟹年處理量"
+        },
+        {
+          "value": 99,
+          "suffix": "%",
+          "label": "活性成分吸收率"
+        }
+      ]
+    },
+    "philosophy": {
+      "eyebrow": "我們的理念",
+      "quote": "為什麼不食根部",
+      "body": "Elohim Bio 只採收人參、桔梗和大蒜的葉與莖——芽苗部分。芽苗中的活性成分濃度遠高於根部，人體吸收效率也大幅提升。這就是我們的理念，也是我們的差異所在。",
+      "points": [
+        "活性成分集中於芽苗，而非根部",
+        "人體吸收率明顯提高",
+        "無農藥、永續栽培"
+      ],
+      "tagMain": "芽苗優於根部",
+      "tagSub": "葉與莖含有更高的機能性成分"
+    },
+    "potency": {
+      "eyebrow": "成分對比",
+      "title": "差異化，以數據驗證",
+      "subtitle": "任何傳統方法都無法達到的機能成分含量——在相同的栽培面積下",
+      "note": "* 與傳統栽培農產品相比，基於內部成分分析。",
+      "baseLabel": "普通 = 1×",
+      "bars": [
+        {
+          "label": "芽苗新生參",
+          "component": "人參皂苷 F2",
+          "multiplier": 800,
+          "unit": "×",
+          "pct": 100
+        },
+        {
+          "label": "芽苗桔梗",
+          "component": "皂苷",
+          "multiplier": 600,
+          "unit": "×",
+          "pct": 75
+        },
+        {
+          "label": "芽苗大蒜",
+          "component": "大蒜素",
+          "multiplier": 350,
+          "unit": "×",
+          "pct": 44
+        }
+      ]
+    },
+    "incubator": {
+      "eyebrow": "核心技術 01",
+      "title": "培育箱農法",
+      "subtitle": "不浪費一滴水",
+      "body": "特殊薄膜完全隔離栽培環境，阻擋線蟲和病原菌。作物幾乎吸收了所有營養液。相比傳統土壤栽培，可減少80%以上的用水量和肥料使用——同時將成分含量提升數百倍。",
+      "waterNum": "80%",
+      "waterText": "用水量少於\n傳統土壤栽培",
+      "tableTitle": "培育箱農法 vs 傳統土壤栽培",
+      "tableHeaders": [
+        "項目",
+        "傳統土壤栽培",
+        "培育箱農法"
+      ],
+      "tableRows": [
+        [
+          "線蟲與病原菌",
+          "在土壤中繁殖，傷害根部",
+          "完全被岩棉隔擋"
+        ],
+        [
+          "灌溉頻率",
+          "每日 5~9 次",
+          "每 15 天 1 次"
+        ],
+        [
+          "養分效率",
+          "隨徑流浪費，成本高",
+          "大部分被作物吸收"
+        ],
+        [
+          "連作可行性",
+          "鹽分累積，產量下降",
+          "薄膜控制，無此問題"
+        ],
+        [
+          "栽培介質成本",
+          "更換成本高",
+          "約為傳統方式的 5%"
+        ],
+        [
+          "環境影響",
+          "土壤受化學農藥污染",
+          "無化學肥料，環保友善"
+        ]
+      ],
+      "cta": "查看技術詳情"
+    },
+    "growth": {
+      "eyebrow": "42 天週期",
+      "title": "從種苗到芽苗，42 天完成",
+      "subtitle": "在完全控制的培育箱環境中每日監測",
+      "stages": [
+        {
+          "day": "Day 1",
+          "desc": "種苗播種"
+        },
+        {
+          "day": "Day 7",
+          "desc": "莖部伸長開始"
+        },
+        {
+          "day": "Day 11",
+          "desc": "葉片展開"
+        },
+        {
+          "day": "Day 15",
+          "desc": "冠層形成"
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "核心技術 02",
+      "title": "紅蟹海洋生物肥料",
+      "subtitle": "深海能量凝聚在芽苗中——甲殼類副產物完全分解轉化為高機能有機肥料",
+      "steps": [
+        {
+          "step": "STEP 01",
+          "title": "收集",
+          "desc": "每年收集 4,500 噸蟹殼與蟹內臟"
+        },
+        {
+          "step": "STEP 02",
+          "title": "初級加工",
+          "desc": "乾燥後研磨成粉末堆肥"
+        },
+        {
+          "step": "STEP 03",
+          "title": "次級加工",
+          "desc": "天然生物技術製成液體養分"
+        },
+        {
+          "step": "STEP 04",
+          "title": "成品",
+          "desc": "粉末肥料與液體養分出貨"
+        }
+      ],
+      "footerNum": "4,500 噸",
+      "footerLabel": "紅蟹副產物年處理量"
+    },
+    "business": {
+      "eyebrow": "三大核心事業",
+      "title": "三項創新，自然與科學的完美結合",
+      "smartfarm": "智慧農場",
+      "smartfarmDesc": "物聯網自動氣候控制，全年生產高機能農產品。400 坪 × 10 棟。",
+      "factory": "肥料工廠",
+      "factoryDesc": "蟹副產物完全分解成液態和粉末生物肥料。4,500 噸/年。",
+      "healing": "療癒中心",
+      "healingDesc": "機能芽苗美食與自然相融的健康體驗。住宿和計畫即將推出。"
+    },
+    "products": {
+      "eyebrow": "招牌產品",
+      "title": "最優質的機能芽苗，由自然孕育",
+      "subtitle": "真正的健康不在根部，而在葉與莖中",
+      "cta": "查看所有產品",
+      "cards": [
+        {
+          "components": [
+            "人參皂苷 F2",
+            "Rh2",
+            "皂苷",
+            "多酚"
+          ]
+        },
+        {
+          "components": [
+            "皂苷 600×",
+            "菊粉",
+            "β-谷固醇"
+          ]
+        },
+        {
+          "components": [
+            "大蒜素 350×",
+            "硒",
+            "槲皮素"
+          ]
+        }
+      ]
+    },
+    "historyTimeline": {
+      "eyebrow": "傳承",
+      "title": "李春吉代表的 30 年之旅",
+      "subtitle": "從 1989 年開始肥料研發，到 2023 年人參皂苷 F2 突破",
+      "events": [
+        {
+          "year": "1989",
+          "event": "肥料研發開始",
+          "major": true
+        },
+        {
+          "year": "1993",
+          "event": "果實生長膠囊——蘋果與梨",
+          "major": false
+        },
+        {
+          "year": "1997",
+          "event": "方形西瓜與造型黃瓜",
+          "major": false
+        },
+        {
+          "year": "2004",
+          "event": "培育箱黃瓜與南瓜薄膜",
+          "major": false
+        },
+        {
+          "year": "2006",
+          "event": "天然生物工廠建立",
+          "major": true
+        },
+        {
+          "year": "2010",
+          "event": "不變褐人參、大蒜、馬鈴薯",
+          "major": false
+        },
+        {
+          "year": "2012",
+          "event": "高人參皂苷含量達成",
+          "major": false
+        },
+        {
+          "year": "2014",
+          "event": "岩棉草莓與番茄方法",
+          "major": false
+        },
+        {
+          "year": "2018",
+          "event": "有機芽苗新生參種苗研發",
+          "major": true
+        },
+        {
+          "year": "2023",
+          "event": "突破：高人參皂苷 F2",
+          "major": true
+        },
+        {
+          "year": "2025",
+          "event": "Elohim Bio 智慧農場建設開始",
+          "major": true
+        }
+      ]
+    },
+    "ctaBanner": {
+      "title": "與 Elohim Bio 一起\n打造更健康的未來",
+      "subtitle": "從產品諮詢到投資洽談，我們竭誠為您服務。",
+      "ctaConsumer": "消費者諮詢",
+      "ctaInvestor": "投資者諮詢"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "關於我們 | Elohim Bio",
+      "description": "30年農業技術開發的結晶，了解 Elohim Bio 的願景與歷史。"
+    },
+    "hero": {
+      "eyebrow": "關於我們",
+      "title": "30年的執著\n締造的創新",
+      "subtitle": "從1989年肥料研發起步的李春吉代表之旅程，\n在2023年成功開發人蔘皂苷 F2 後結出碩果。"
+    },
+    "vision": {
+      "eyebrow": "願景與使命",
+      "title": "將自然之力最大化\n為人類健康做出貢獻",
+      "vision": "願景：以孵化器農法與海洋生物肥料技術引領全球機能性農產品市場，將襄陽打造為全球生物農業中心。",
+      "mission": "使命：以30年累積的技術為基礎，建立高機能性芽菜農產品的量產與流通體系，為健康促進和地方經濟發展做出貢獻。",
+      "philosophy": {
+        "title": "師法自然，以科學臻於完美",
+        "body": "Elohim Bio 結合了海洋與大地兩股自然之力。從紅蟹副產物中萃取的幾丁質·幾丁聚醣生物肥料喚醒土地的潛力，而孵化器農法則將植物的能力發揮到極致。順應自然、以科學提升至更高境界——這就是我們的理念。"
+      }
+    },
+    "ceo": {
+      "name": "李春吉",
+      "title": "代表理事 / 創辦人",
+      "bio": "自1989年起全心投入農業技術研發的李春吉代表，於1997年因成功開發方形黃瓜與太極黃瓜而受到矚目。此後30餘年間，他專注於海洋生物肥料與孵化器農法的研究。2023年，他成功開發出人蔘皂苷 F2 含量為一般人蔘800倍的新生蔘，開創了機能性農產品市場的全新篇章。"
+    },
+    "history": {
+      "eyebrow": "沿革",
+      "title": "30年的足跡",
+      "items": [
+        {
+          "year": "1989",
+          "event": "李春吉代表開始農業技術研究——著手肥料研發"
+        },
+        {
+          "year": "1997",
+          "event": "方形黃瓜與太極黃瓜開發成功——栽培技術創新的開端"
+        },
+        {
+          "year": "2005",
+          "event": "以紅蟹水產副產物為基礎的海洋生物肥料研究啟動"
+        },
+        {
+          "year": "2015",
+          "event": "孵化器農法基本專利申請——特殊薄膜隔離栽培系統確立"
+        },
+        {
+          "year": "2020",
+          "event": "幾丁質·幾丁聚醣生物肥料完成——年處理能力達4,500噸"
+        },
+        {
+          "year": "2023",
+          "event": "人蔘皂苷 F2 達一般人蔘800倍——新生蔘開發成功"
+        },
+        {
+          "year": "2024",
+          "event": "Elohim Bio 法人成立——智慧農場·肥料工廠·療癒中心三大事業啟動"
+        },
+        {
+          "year": "2025",
+          "event": "襄陽智慧農場10棟正式運作——新生蔘·桔梗·大蒜量產開始"
+        }
+      ]
+    },
+    "strengths": {
+      "eyebrow": "核心競爭力",
+      "title": "Elohim Bio 的競爭優勢",
+      "items": [
+        {
+          "title": "30年技術實力",
+          "desc": "從肥料開發到孵化器農法，30年累積的現場經驗與專業知識"
+        },
+        {
+          "title": "專利技術",
+          "desc": "擁有孵化器農法及海洋生物肥料相關核心專利"
+        },
+        {
+          "title": "驗證的成果",
+          "desc": "韓國食品研究院分析確認——人蔘皂苷 F2 含量為一般人蔘800倍"
+        },
+        {
+          "title": "垂直整合",
+          "desc": "從原料（紅蟹）→ 肥料生產 → 栽培 → 加工·流通，全流程自主營運"
+        }
+      ]
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "核心技術 | Elohim Bio",
+      "description": "了解以孵化器農法與紅蟹海洋生物肥料將人蔘皂苷 F2 提升至一般人蔘800倍的 Elohim Bio 專利技術。"
+    },
+    "hero": {
+      "eyebrow": "核心技術",
+      "title": "以科學將自然之力\n發揮到極致",
+      "subtitle": "兩大核心技術的結合，讓不可能化為可能"
+    },
+    "incubator": {
+      "eyebrow": "技術 1",
+      "title": "孵化器農法",
+      "subtitle": "特殊薄膜隔離栽培系統",
+      "description": "在特殊薄膜隔離的無菌環境中進行栽培。完全阻隔線蟲與病原菌，精密控制營養與水分，將有效成分含量最大化。相較傳統農法，用水量減少80%，農藥使用為零。",
+      "advantages": [
+        "特殊薄膜完全阻隔線蟲與病原菌",
+        "用水量減少80%（精密灌溉系統）",
+        "零農藥——100%環保栽培",
+        "精密營養控制，最大化有效成分",
+        "全年穩定生產（不受季節影響）"
+      ],
+      "comparisonTitle": "傳統農法 vs 孵化器農法"
+    },
+    "comparison": {
+      "headers": [
+        "項目",
+        "傳統農法",
+        "孵化器農法"
+      ],
+      "rows": [
+        [
+          "栽培環境",
+          "露地或一般溫室",
+          "特殊薄膜隔離無菌環境"
+        ],
+        [
+          "用水量",
+          "100%（基準）",
+          "20%（減少80%）"
+        ],
+        [
+          "農藥使用",
+          "必需（病蟲害防治）",
+          "不需要（完全阻隔）"
+        ],
+        [
+          "病原菌控制",
+          "有限",
+          "100%阻隔"
+        ],
+        [
+          "成分含量",
+          "一般",
+          "人蔘皂苷 F2 800倍"
+        ],
+        [
+          "生產時期",
+          "受季節限制",
+          "全年可生產"
+        ]
+      ]
+    },
+    "fertilizer": {
+      "eyebrow": "技術 2",
+      "title": "紅蟹海洋生物肥料",
+      "subtitle": "幾丁質·幾丁聚醣有機肥料",
+      "description": "從江原道東海岸紅蟹水產副產物（蟹殼）中萃取幾丁質與幾丁聚醣成分，完全分解後製成液態及粉末生物肥料。此肥料能增強植物免疫力並促進有效成分合成。每年處理4,500噸紅蟹副產物，也為資源循環做出貢獻。"
+    },
+    "ginsenoside": {
+      "eyebrow": "驗證的成果",
+      "title": "人蔘皂苷分析結果",
+      "subtitle": "韓國食品研究院分析標準",
+      "items": [
+        {
+          "crop": "新生蔘（芽蔘）",
+          "component": "人蔘皂苷 F2",
+          "multiplier": 800,
+          "unit": "倍"
+        },
+        {
+          "crop": "新生桔梗",
+          "component": "皂苷",
+          "multiplier": 12,
+          "unit": "倍"
+        },
+        {
+          "crop": "新生大蒜",
+          "component": "大蒜素",
+          "multiplier": 8,
+          "unit": "倍"
+        }
+      ],
+      "note": "* 與傳統栽培農產品相比之數值。依據韓國食品研究院分析結果。"
+    },
+    "philosophy": {
+      "quote": "以技術完成自然的循環",
+      "author": "——李春吉代表",
+      "body": "來自大海的紅蟹成為土地的肥料，以此肥料培育的嫩芽守護人類的健康。Elohim Bio 的技術以科學優化這一自然循環，生產出最優質的機能性農產品。"
+    }
+  },
+  "products": {
+    "meta": {
+      "title": "產品 | Elohim Bio",
+      "description": "以孵化器農法栽培的新生蔘·新生桔梗·新生大蒜。人蔘皂苷 F2 含量為一般人蔘800倍的高機能性芽菜產品。"
+    },
+    "hero": {
+      "eyebrow": "產品",
+      "title": "大自然孕育的\n頂級機能性芽菜",
+      "subtitle": "真正的健康不在根部，而在葉與莖中"
+    },
+    "sinsaengssam": {
+      "name": "新生蔘（芽蔘）",
+      "badge": "暢銷產品",
+      "tagline": "護肝·抗癌·免疫的最佳選擇",
+      "description": "以孵化器農法栽培的新生蔘，其葉與莖中的人蔘皂苷 F2 含量為一般人蔘根部的800倍以上。在無農藥的潔淨環境中栽培，可安全生食。",
+      "keyComponent": "人蔘皂苷 F2",
+      "multiplier": "800倍",
+      "benefits": [
+        "護肝功能（促進肝細胞再生）",
+        "抗癌作用（抑制癌細胞生長）",
+        "增強免疫力（活化NK細胞）",
+        "抗氧化作用（清除自由基）",
+        "輔助血糖調節"
+      ],
+      "howToEat": "洗淨後直接生食，或用於沙拉、果昔、生菜包飯。每日建議攝取量：5~10株。",
+      "storage": "冷藏保存（2~5°C），建議於採收後7天內食用",
+      "certification": "韓國食品研究院成分分析完成"
+    },
+    "doraji": {
+      "name": "新生桔梗（芽桔梗）",
+      "tagline": "支氣管與呼吸道健康的天然方案",
+      "description": "以孵化器農法栽培的新生桔梗，皂苷含量為傳統栽培桔梗的12倍。採收嫩葉與莖部，苦味少且口感柔嫩，生食也十分美味。",
+      "keyComponent": "皂苷",
+      "multiplier": "12倍",
+      "benefits": [
+        "支氣管·呼吸道健康（促進痰液排出）",
+        "抗炎作用（緩解慢性發炎）",
+        "增進免疫力",
+        "輔助血糖調節",
+        "抗氧化效果"
+      ],
+      "howToEat": "可直接生食，或製成涼拌菜、茶飲、果汁。每日建議攝取量：50~100g。",
+      "storage": "冷藏保存（2~5°C），建議於採收後5天內食用",
+      "certification": "韓國食品研究院成分分析完成"
+    },
+    "garlic": {
+      "name": "新生大蒜（芽蒜）",
+      "tagline": "守護心血管健康與免疫力的抗菌食品",
+      "description": "以孵化器農法栽培的新生大蒜，大蒜素含量為一般大蒜的8倍。於芽苗階段採收，辣味溫和且口感爽脆。",
+      "keyComponent": "大蒜素",
+      "multiplier": "8倍",
+      "benefits": [
+        "強效抗菌·抗病毒作用",
+        "心血管健康（調節膽固醇）",
+        "增強免疫力",
+        "抗氧化作用",
+        "消除疲勞"
+      ],
+      "howToEat": "可直接生食，或製成涼拌菜、炒菜、醃漬小菜。每日建議攝取量：30~50g。",
+      "storage": "冷藏保存（2~5°C），建議於採收後7天內食用",
+      "certification": "韓國食品研究院成分分析完成"
+    },
+    "whySprouts": {
+      "eyebrow": "為什麼選擇芽菜？",
+      "title": "真正的營養不在根部\n而在葉與莖中",
+      "description": "植物在發芽後7~15天、生長最旺盛的時期，會合成最高濃度的有效成分。Elohim Bio 的芽菜產品正是在這一黃金期採收，以營養密度最高的狀態提供。",
+      "items": [
+        {
+          "title": "生長能量集中",
+          "desc": "芽菜在將根部儲存的能量轉化為葉片生長的過程中，會爆發性地合成有效成分。"
+        },
+        {
+          "title": "99%吸收率",
+          "desc": "嫩芽組織柔軟，消化吸收快速，有效成分的生物利用率達到最大化。"
+        },
+        {
+          "title": "安全生食",
+          "desc": "在孵化器無菌環境中栽培，無農藥、無重金屬疑慮，可安心生食。"
+        }
+      ]
+    }
+  },
+  "business": {
+    "meta": {
+      "title": "事業介紹 | Elohim Bio",
+      "description": "智慧農場·肥料工廠·療癒中心三大事業，推動總規模1,000億韓元的環保生物農業創新。"
+    },
+    "hero": {
+      "eyebrow": "事業介紹",
+      "title": "以三大事業打造\n環保生物農業生態系統",
+      "subtitle": "智慧農場 · 肥料工廠 · 療癒中心——三位一體"
+    },
+    "smartfarm": {
+      "eyebrow": "事業 1",
+      "title": "智慧農場",
+      "description": "透過 IoT 自動化環境控制系統精密管理溫度、濕度、灌溉及光照。在400坪 × 10棟規模的設施中，全年穩定生產高機能性農產品。",
+      "specs": [
+        {
+          "label": "設施規模",
+          "value": "400坪 × 10棟"
+        },
+        {
+          "label": "栽培作物",
+          "value": "新生蔘·桔梗·大蒜"
+        },
+        {
+          "label": "控制系統",
+          "value": "IoT 自動化（溫度·濕度·灌溉·光照）"
+        },
+        {
+          "label": "生產方式",
+          "value": "全年無休生產"
+        }
+      ]
+    },
+    "factory": {
+      "eyebrow": "事業 2",
+      "title": "肥料工廠",
+      "description": "將東海岸紅蟹水產副產物完全分解，製成液態及粉末生物肥料。營運年處理能力4,500噸的工廠，為資源循環經濟做出貢獻。",
+      "specs": [
+        {
+          "label": "年處理能力",
+          "value": "4,500噸"
+        },
+        {
+          "label": "原料",
+          "value": "東海岸紅蟹副產物（幾丁質·幾丁聚醣）"
+        },
+        {
+          "label": "生產產品",
+          "value": "液態肥料 · 粉末肥料"
+        },
+        {
+          "label": "環境貢獻",
+          "value": "水產副產物100%資源循環"
+        }
+      ]
+    },
+    "healing": {
+      "eyebrow": "事業 3",
+      "title": "療癒中心",
+      "description": "結合機能性芽菜飲食與襄陽自然環境的健康體驗空間。透過住宿、農場體驗及健康方案，引領健康旅遊風潮。",
+      "specs": [
+        {
+          "label": "位置",
+          "value": "韓國江原特別自治道襄陽郡"
+        },
+        {
+          "label": "方案",
+          "value": "住宿 · 農場體驗 · 健康飲食"
+        },
+        {
+          "label": "特色",
+          "value": "機能性芽菜飲食"
+        },
+        {
+          "label": "預定",
+          "value": "目標2026年開幕"
+        }
+      ]
+    },
+    "investment": {
+      "eyebrow": "投資亮點",
+      "title": "成長潛力經驗證的事業",
+      "items": [
+        {
+          "value": "1,000億+",
+          "label": "總事業規模（韓元）"
+        },
+        {
+          "value": "400億",
+          "label": "智慧農場投資規模"
+        },
+        {
+          "value": "300億",
+          "label": "肥料工廠投資規模"
+        },
+        {
+          "value": "300億",
+          "label": "療癒中心投資規模"
+        }
+      ]
+    },
+    "roadmap": {
+      "eyebrow": "發展路線圖",
+      "title": "成長計劃",
+      "items": [
+        {
+          "phase": "第一階段（2024~2025）",
+          "title": "基礎建設",
+          "desc": "法人成立、智慧農場10棟投入運作、肥料工廠試運轉"
+        },
+        {
+          "phase": "第二階段（2025~2026）",
+          "title": "產能擴張",
+          "desc": "智慧農場擴展至20棟、肥料量產、療癒中心動工"
+        },
+        {
+          "phase": "第三階段（2026~2027）",
+          "title": "市場進入",
+          "desc": "建立國內流通網絡、啟動日本及東南亞出口、療癒中心開幕"
+        },
+        {
+          "phase": "第四階段（2028~）",
+          "title": "全球拓展",
+          "desc": "進入中國及中東市場、智慧農場技術外銷"
+        }
+      ]
+    },
+    "irCta": {
+      "title": "歡迎各位投資者",
+      "description": "詳細了解 Elohim Bio 的成長潛力與事業計劃。",
+      "cta": "前往投資者 IR"
+    }
+  },
+  "ir": {
+    "meta": {
+      "title": "投資者 IR | Elohim Bio",
+      "description": "Elohim Bio 投資者專屬資訊頁面。"
+    },
+    "login": {
+      "title": "投資者專屬頁面",
+      "subtitle": "請使用由負責人發放的帳號登入",
+      "emailLabel": "電子郵件",
+      "emailPlaceholder": "investor@example.com",
+      "passwordLabel": "密碼",
+      "loginBtn": "登入",
+      "contactHint": "還沒有帳號？",
+      "contactLink": "聯絡負責人",
+      "errorInvalid": "電子郵件或密碼不正確。",
+      "errorNotAuthorized": "您沒有 IR 存取權限。請聯絡負責人。"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "聯絡我們 | Elohim Bio",
+      "description": "產品購買、投資、合作夥伴、體驗預約等，歡迎各類諮詢。"
+    },
+    "hero": {
+      "eyebrow": "聯絡我們",
+      "title": "歡迎隨時\n與我們聯繫",
+      "subtitle": "從消費者諮詢到投資洽談，竭誠為您服務"
+    },
+    "form": {
+      "typeLabel": "諮詢類型",
+      "typeConsumer": "消費者產品諮詢",
+      "typeInvestor": "投資者諮詢",
+      "typePartnership": "合作夥伴 / B2B",
+      "typeExperience": "體驗農場預約",
+      "typeOther": "其他",
+      "nameLabel": "姓名",
+      "namePlaceholder": "王小明",
+      "emailLabel": "電子郵件",
+      "emailPlaceholder": "example@email.com",
+      "phoneLabel": "聯絡電話",
+      "phonePlaceholder": "+82-10-0000-0000",
+      "companyLabel": "公司名稱（選填）",
+      "companyPlaceholder": "公司名稱",
+      "messageLabel": "諮詢內容",
+      "messagePlaceholder": "請描述您的諮詢內容。",
+      "privacyLabel": "我同意個人資訊的蒐集與使用。",
+      "privacyLink": "查看隱私權政策",
+      "submitBtn": "送出諮詢",
+      "submitting": "傳送中...",
+      "successTitle": "諮詢已提交",
+      "successMessage": "我們將在1~2個工作天內回覆您。",
+      "errorMessage": "發生錯誤。請稍後再試。",
+      "required": "必填"
+    },
+    "info": {
+      "title": "聯絡資訊",
+      "email": "info@elohimbio.com",
+      "location": "韓國江原特別自治道襄陽郡",
+      "responseTime": "平均回覆時間：1~2個工作天"
+    }
+  },
+  "board": {
+    "meta": {
+      "title": "資料室 | Elohim Bio",
+      "description": "Elohim Bio 資料室——自由分享與下載資源。"
+    },
+    "title": "資料室",
+    "subtitle": "自由分享與下載資源",
+    "writeBtn": "發表文章",
+    "table": {
+      "number": "編號",
+      "title": "標題",
+      "author": "作者",
+      "date": "日期",
+      "views": "瀏覽",
+      "files": "附件"
+    },
+    "empty": "尚無文章。",
+    "pagination": {
+      "prev": "上一頁",
+      "next": "下一頁"
+    },
+    "write": {
+      "title": "發表新文章",
+      "titleLabel": "標題",
+      "titlePlaceholder": "請輸入標題",
+      "authorLabel": "作者",
+      "authorPlaceholder": "請輸入姓名",
+      "passwordLabel": "密碼（刪除時需要）",
+      "passwordPlaceholder": "至少4個字元",
+      "contentLabel": "內容",
+      "contentPlaceholder": "請輸入內容",
+      "fileLabel": "附件（最多3個，每個10MB）",
+      "fileBtn": "選擇檔案",
+      "fileSelected": "個檔案已選擇",
+      "submitBtn": "提交",
+      "submitting": "提交中...",
+      "cancelBtn": "取消",
+      "errorRequired": "請填寫所有必填欄位。",
+      "errorFileSize": "每個檔案不得超過10MB。",
+      "errorFileCount": "最多可附加3個檔案。",
+      "errorSubmit": "發生錯誤。請重試。"
+    },
+    "detail": {
+      "backToList": "返回列表",
+      "author": "作者",
+      "date": "日期",
+      "views": "瀏覽次數",
+      "files": "附件",
+      "download": "下載",
+      "deleteBtn": "刪除",
+      "deleteConfirm": "確定要刪除這篇文章嗎？",
+      "deletePasswordLabel": "請輸入密碼",
+      "deletePasswordPlaceholder": "發表時設定的密碼",
+      "deleteSubmit": "確認刪除",
+      "deleteCancel": "取消",
+      "deleteSuccess": "文章已刪除。",
+      "deleteErrorPassword": "密碼不正確。",
+      "deleteError": "刪除時發生錯誤。",
+      "notFound": "找不到該文章。"
+    }
+  },
+  "seo": {
+    "defaultTitle": "Elohim Bio | 孵化器農法機能性芽菜專家",
+    "defaultDescription": "以30年孵化器農法技術與紅蟹海洋生物肥料栽培的高機能性新生蔘·桔梗·大蒜。人蔘皂苷 F2 含量為一般人蔘800倍。",
+    "ogImageAlt": "Elohim Bio — 機能性芽菜農業創新"
+  }
+}

@@ -1,0 +1,841 @@
+{
+  "common": {
+    "siteName": "Elohim Bio",
+    "siteTagline": "Phép màu sinh ra từ biển sâu, hoàn thiện trong mầm non",
+    "ctaProduct": "Xem sản phẩm",
+    "ctaInvestor": "Nhà đầu tư IR",
+    "ctaContact": "Liên hệ",
+    "ctaLearnMore": "Tìm hiểu thêm",
+    "ctaDownload": "Tải xuống",
+    "ctaApply": "Đăng ký trải nghiệm",
+    "navAbout": "Giới thiệu",
+    "navTechnology": "Công nghệ",
+    "navProducts": "Sản phẩm",
+    "navBusiness": "Kinh doanh",
+    "navBoard": "Bảng tin",
+    "navIR": "Nhà đầu tư IR",
+    "navContact": "Liên hệ",
+    "footerPrivacy": "Chính sách bảo mật",
+    "footerCopyright": "© 2025 Elohim Bio. Bảo lưu mọi quyền.",
+    "footerAddress": "75 Seongju-ro, Janghowon-eup, Icheon-si, Gyeonggi-do",
+    "footerEmail": "info@elohimbio.com",
+    "langSelect": "Ngôn ngữ"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Kết quả của 30 năm kinh nghiệm",
+      "title": "Phép màu sinh ra từ biển sâu,\nhoàn thiện trong mầm non",
+      "subtitle": "Mầm nhân sâm, cát cánh và tỏi chức năng cao —\ntrồng bằng phân bón sinh học cua tuyết và phương pháp canh tác ươm của chúng tôi",
+      "ctaPrimary": "Khám phá sản phẩm",
+      "ctaSecondary": "Quan hệ nhà đầu tư",
+      "imageAlt": "Trang trại thông minh canh tác ươm Elohim Bio",
+      "badgeNum": "800×",
+      "badgeLbl": "Ginsenoside F2 so với nhân sâm thường",
+      "scrollCue": "Cuộn"
+    },
+    "stats": {
+      "eyebrow": "Elohim Bio trong các con số",
+      "title": "Công nghệ được chứng minh, Kết quả xác minh",
+      "items": [
+        {
+          "value": 30,
+          "suffix": "năm+",
+          "label": "Năm R&D công nghệ nông nghiệp"
+        },
+        {
+          "value": 800,
+          "suffix": "×",
+          "label": "Hàm lượng Ginsenoside F2\n(so với nhân sâm thường)"
+        },
+        {
+          "value": 4500,
+          "suffix": "t",
+          "label": "Cua tuyết xử lý hàng năm"
+        },
+        {
+          "value": 99,
+          "suffix": "%",
+          "label": "Hấp thụ hợp chất hoạt chất"
+        }
+      ]
+    },
+    "philosophy": {
+      "eyebrow": "Triết lý của chúng tôi",
+      "quote": "Tại sao chúng tôi không ăn rễ",
+      "body": "Elohim Bio chỉ thu hoạch lá và thân — mầm — của nhân sâm, cát cánh và tỏi. Hàm lượng hợp chất hoạt chất tập trung nhiều hơn trong mầm so với rễ, và cơ thể hấp thụ chúng tốt hơn đáng kể. Đây là triết lý của chúng tôi, và sự khác biệt của chúng tôi.",
+      "points": [
+        "Hợp chất hoạt chất tập trung trong mầm, không phải rễ",
+        "Tỷ lệ hấp thụ con người cao hơn đáng kể",
+        "Canh tác không thuốc trừ sâu, bền vững"
+      ],
+      "tagMain": "Mầm trước rễ",
+      "tagSub": "Lá & thân chứa hàm lượng chức năng cao hơn"
+    },
+    "potency": {
+      "eyebrow": "So sánh hợp chất",
+      "title": "Sự khác biệt, được chứng minh bằng các con số",
+      "subtitle": "Hàm lượng hợp chất chức năng mà không có phương pháp thông thường nào có thể đạt được — trên cùng một diện tích canh tác",
+      "note": "* So với sản phẩm trồng thông thường, dựa trên phân tích hợp chất nội bộ.",
+      "baseLabel": "thường = 1×",
+      "bars": [
+        {
+          "label": "Mầm nhân sâm",
+          "component": "Ginsenoside F2",
+          "multiplier": 800,
+          "unit": "×",
+          "pct": 100
+        },
+        {
+          "label": "Mầm cát cánh",
+          "component": "Saponin",
+          "multiplier": 600,
+          "unit": "×",
+          "pct": 75
+        },
+        {
+          "label": "Mầm tỏi",
+          "component": "Allicin",
+          "multiplier": 350,
+          "unit": "×",
+          "pct": 44
+        }
+      ]
+    },
+    "incubator": {
+      "eyebrow": "Công nghệ cốt lõi 01",
+      "title": "Canh tác ươm",
+      "subtitle": "Không một giọt nước nào bị lãng phí",
+      "body": "Một bộ phim đặc biệt hoàn toàn cách ly môi trường trồng, chặn các tuyến trùng và mầm bệnh. Cây trồng hấp thụ gần như tất cả dung dịch dinh dưỡng. So với canh tác ghế thông thường, nó giảm lượng nước và phân bón sử dụng hơn 80% — trong khi nâng cao hàm lượng hợp chất lên hàng trăm lần.",
+      "waterNum": "80%",
+      "waterText": "Lượng nước ít hơn so với\ncanh tác ghế thông thường",
+      "tableTitle": "Phương pháp ươm so với canh tác ghế",
+      "tableHeaders": [
+        "Tiêu chí",
+        "Canh tác ghế",
+        "Phương pháp ươm"
+      ],
+      "tableRows": [
+        [
+          "Tuyến trùng & mầm bệnh",
+          "Sinh sôi trong đất, làm hư hại rễ",
+          "Bị chặn hoàn toàn bởi đá len"
+        ],
+        [
+          "Tần suất tưới tiêu",
+          "5–9 lần hàng ngày",
+          "Một lần mỗi 15 ngày"
+        ],
+        [
+          "Hiệu quả dinh dưỡng",
+          "Bị lãng phí dưới dạng chảy xuống, tốn kém",
+          "Hầu hết được cây trồng hấp thụ"
+        ],
+        [
+          "Canh tác liên tục",
+          "Tích tụ muối, mất năng suất",
+          "Được kiểm soát bởi bộ phim, không có"
+        ],
+        [
+          "Chi phí vật chất trồng",
+          "Tốn kém để thay thế",
+          "Khoảng 5% so với thông thường"
+        ],
+        [
+          "Tác động môi trường",
+          "Đất bị ô nhiễm bởi hóa chất nông nghiệp",
+          "Không phân bón hóa học, thân thiện với môi trường"
+        ]
+      ],
+      "cta": "Xem chi tiết công nghệ"
+    },
+    "growth": {
+      "eyebrow": "Chu kỳ 42 ngày",
+      "title": "Từ cây con đến mầm trong 42 ngày",
+      "subtitle": "Theo dõi hàng ngày trong môi trường ươm được kiểm soát hoàn toàn",
+      "stages": [
+        {
+          "day": "Day 1",
+          "desc": "Cây con được trồng"
+        },
+        {
+          "day": "Day 7",
+          "desc": "Kéo dài thân bắt đầu"
+        },
+        {
+          "day": "Day 11",
+          "desc": "Lá phát triển"
+        },
+        {
+          "day": "Day 15",
+          "desc": "Nắp che phát triển"
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "Công nghệ cốt lõi 02",
+      "title": "Phân bón sinh học cua tuyết",
+      "subtitle": "Năng lượng biển sâu được bắt giữ trong một mầm — phụ phẩm động vật chân đốt được phân hủy hoàn toàn thành phân bón hữu cơ chức năng cao",
+      "steps": [
+        {
+          "step": "STEP 01",
+          "title": "Thu thập",
+          "desc": "4.500 tấn vỏ cua & nội tạng mỗi năm"
+        },
+        {
+          "step": "STEP 02",
+          "title": "Xử lý sơ cấp",
+          "desc": "Sấy khô & xay thành phân compost bột"
+        },
+        {
+          "step": "STEP 03",
+          "title": "Xử lý thứ cấp",
+          "desc": "Công nghệ sinh học tự nhiên tạo ra dung dịch dinh dưỡng"
+        },
+        {
+          "step": "STEP 04",
+          "title": "Sản phẩm hoàn thành",
+          "desc": "Phân bón bột & dung dịch dinh dưỡng được gửi đi"
+        }
+      ],
+      "footerNum": "4.500 t",
+      "footerLabel": "Phụ phẩm cua tuyết xử lý hàng năm"
+    },
+    "business": {
+      "eyebrow": "Ba doanh nghiệp cốt lõi",
+      "title": "Ba đổi mới nơi thiên nhiên gặp khoa học",
+      "smartfarm": "Trang trại thông minh",
+      "smartfarmDesc": "Điều khiển khí hậu tự động IoT để sản xuất chức năng cao quanh năm. 400 pyeong × 10 cơ sở.",
+      "factory": "Nhà máy phân bón",
+      "factoryDesc": "Phụ phẩm cua được phân hủy hoàn toàn thành phân bón sinh học dạng lỏng & bột. 4.500 tấn / năm.",
+      "healing": "Trung tâm chữa lành",
+      "healingDesc": "Trải nghiệm sức khỏe kết hợp ẩm thực mầm chức năng với thiên nhiên. Lưu trú & chương trình sắp tới."
+    },
+    "products": {
+      "eyebrow": "Sản phẩm chữ ký",
+      "title": "Những mầm chức năng tốt nhất, được canh tác bởi thiên nhiên",
+      "subtitle": "Sức khỏe thực sự, được tìm thấy ở lá và thân — không phải rễ",
+      "cta": "Xem tất cả sản phẩm",
+      "cards": [
+        {
+          "components": [
+            "Ginsenoside F2",
+            "Rh2",
+            "Saponin",
+            "Polyphenol"
+          ]
+        },
+        {
+          "components": [
+            "Saponin 600×",
+            "Inulin",
+            "Beta-sitosterol"
+          ]
+        },
+        {
+          "components": [
+            "Allicin 350×",
+            "Selenium",
+            "Quercetin"
+          ]
+        }
+      ]
+    },
+    "historyTimeline": {
+      "eyebrow": "Di sản",
+      "title": "Hành trình 30 năm của Giám đốc Lee Chun-gil",
+      "subtitle": "Từ phát triển phân bón năm 1989 đến bước ngoặt Ginsenoside F2 năm 2023",
+      "events": [
+        {
+          "year": "1989",
+          "event": "Phát triển phân bón bắt đầu",
+          "major": true
+        },
+        {
+          "year": "1993",
+          "event": "Nang chứa tăng trưởng trái cây — táo & lê",
+          "major": false
+        },
+        {
+          "year": "1997",
+          "event": "Dưa chuột khối & dưa chuột hình dáng",
+          "major": false
+        },
+        {
+          "year": "2004",
+          "event": "Dưa chuột ươm & bộ phim bí ngô",
+          "major": false
+        },
+        {
+          "year": "2006",
+          "event": "Nhà máy sinh học tự nhiên được thành lập",
+          "major": true
+        },
+        {
+          "year": "2010",
+          "event": "Nhân sâm, tỏi, khoai tây không nâu",
+          "major": false
+        },
+        {
+          "year": "2012",
+          "event": "Hàm lượng ginsenoside cao được bảo đảm",
+          "major": false
+        },
+        {
+          "year": "2014",
+          "event": "Phương pháp dâu & cà chua wool-lite",
+          "major": false
+        },
+        {
+          "year": "2018",
+          "event": "R&D hạt giống mầm nhân sâm hữu cơ",
+          "major": true
+        },
+        {
+          "year": "2023",
+          "event": "Bước ngoặt: ginsenoside F2 cao",
+          "major": true
+        },
+        {
+          "year": "2025",
+          "event": "Xây dựng trang trại thông minh Elohim Bio bắt đầu",
+          "major": true
+        }
+      ]
+    },
+    "ctaBanner": {
+      "title": "Xây dựng một tương lai lành mạnh hơn\nvới Elohim Bio",
+      "subtitle": "Từ các yêu cầu sản phẩm đến tư vấn đầu tư, chúng tôi luôn sẵn sàng phục vụ.",
+      "ctaConsumer": "Tư vấn người tiêu dùng",
+      "ctaInvestor": "Tư vấn nhà đầu tư"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Giới thiệu | Elohim Bio",
+      "description": "Khám phá tầm nhìn và lịch sử 30 năm đổi mới nông nghiệp của Elohim Bio."
+    },
+    "hero": {
+      "eyebrow": "Về chúng tôi",
+      "title": "30 năm cống hiến\nThúc đẩy đổi mới",
+      "subtitle": "Hành trình của Giám đốc Lee Chun-gil, từ phát triển phân bón năm 1989\nđến phát hiện đột phá Ginsenoside F2 năm 2023."
+    },
+    "vision": {
+      "eyebrow": "Tầm nhìn & Sứ mệnh",
+      "title": "Tối đa hóa sức mạnh thiên nhiên\nđể cải thiện sức khỏe con người",
+      "vision": "Tầm nhìn: Dẫn đầu thị trường cây trồng chức năng toàn cầu bằng công nghệ canh tác ươm và phân bón sinh học biển, xây dựng Yangyang thành trung tâm nông nghiệp sinh học toàn cầu.",
+      "mission": "Sứ mệnh: Xây dựng hệ thống sản xuất và phân phối đại trà cho cây mầm chức năng cao dựa trên 30 năm công nghệ tích lũy, góp phần cải thiện sức khỏe và tăng trưởng kinh tế vùng.",
+      "philosophy": {
+        "title": "Học từ thiên nhiên, hoàn thiện bằng khoa học",
+        "body": "Elohim Bio kết hợp sức mạnh của biển và đất liền. Phân bón sinh học chitin và chitosan được chiết xuất từ phụ phẩm cua đánh thức tiềm năng của đất, trong khi canh tác ươm tối đa hóa khả năng của cây trồng. Triết lý của chúng tôi là hợp tác với thiên nhiên, nâng tầm thiên nhiên bằng khoa học."
+      }
+    },
+    "ceo": {
+      "name": "Lee Chun-gil",
+      "title": "Giám đốc điều hành / Nhà sáng lập",
+      "bio": "Từ năm 1989, Giám đốc Lee Chun-gil đã dành trọn tâm huyết cho phát triển công nghệ nông nghiệp. Ông được công nhận với việc phát triển dưa chuột vuông và dưa chuột Taegeuk năm 1997, sau đó dành hơn 30 năm nghiên cứu phân bón sinh học biển và canh tác ươm. Năm 2023, ông thành công phát triển Sinsaengssam chứa hàm lượng Ginsenoside F2 cao gấp 800 lần so với nhân sâm thường, mở ra chân trời mới cho thị trường cây trồng chức năng."
+    },
+    "history": {
+      "eyebrow": "Lịch sử",
+      "title": "30 năm cột mốc phát triển",
+      "items": [
+        {
+          "year": "1989",
+          "event": "Giám đốc Lee Chun-gil bắt đầu nghiên cứu công nghệ nông nghiệp — phát triển phân bón"
+        },
+        {
+          "year": "1997",
+          "event": "Phát triển dưa chuột vuông & dưa chuột Taegeuk — tiên phong đổi mới cây trồng"
+        },
+        {
+          "year": "2005",
+          "event": "Bắt đầu R&D phân bón sinh học biển từ phụ phẩm cua đỏ"
+        },
+        {
+          "year": "2015",
+          "event": "Đăng ký bằng sáng chế canh tác ươm — thiết lập hệ thống cách ly bằng màng chuyên dụng"
+        },
+        {
+          "year": "2020",
+          "event": "Hoàn thành phân bón sinh học chitin & chitosan — đảm bảo công suất 4.500 tấn/năm"
+        },
+        {
+          "year": "2023",
+          "event": "Đạt Ginsenoside F2 gấp 800 lần — phát triển Sinsaengssam thành công"
+        },
+        {
+          "year": "2024",
+          "event": "Thành lập công ty Elohim Bio — ra mắt Trang trại thông minh, Nhà máy phân bón, Trung tâm chữa lành"
+        },
+        {
+          "year": "2025",
+          "event": "10 cơ sở Trang trại thông minh Yangyang vận hành toàn diện — bắt đầu sản xuất hàng loạt"
+        }
+      ]
+    },
+    "strengths": {
+      "eyebrow": "Thế mạnh cốt lõi",
+      "title": "Lợi thế cạnh tranh của chúng tôi",
+      "items": [
+        {
+          "title": "30 năm chuyên môn",
+          "desc": "Kinh nghiệm thực tiễn và bí quyết tích lũy từ phát triển phân bón đến canh tác ươm"
+        },
+        {
+          "title": "Công nghệ được cấp bằng sáng chế",
+          "desc": "Bằng sáng chế cốt lõi về hệ thống canh tác ươm và phân bón sinh học biển"
+        },
+        {
+          "title": "Kết quả đã chứng minh",
+          "desc": "Được Viện Nghiên cứu Thực phẩm Hàn Quốc xác nhận — hàm lượng Ginsenoside F2 gấp 800 lần"
+        },
+        {
+          "title": "Tích hợp theo chiều dọc",
+          "desc": "Kiểm soát toàn diện từ nguyên liệu thô (cua) đến phân bón, canh tác, chế biến và phân phối"
+        }
+      ]
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "Công nghệ | Elohim Bio",
+      "description": "Khám phá công nghệ canh tác ươm và phân bón sinh học biển đạt hàm lượng Ginsenoside F2 gấp 800 lần."
+    },
+    "hero": {
+      "eyebrow": "Công nghệ cốt lõi",
+      "title": "Tối đa hóa sức mạnh thiên nhiên\nBằng khoa học",
+      "subtitle": "Hai công nghệ cốt lõi kết hợp để biến điều không thể thành có thể"
+    },
+    "incubator": {
+      "eyebrow": "Công nghệ 1",
+      "title": "Canh tác ươm",
+      "subtitle": "Hệ thống trồng cách ly bằng màng chuyên dụng",
+      "description": "Cây trồng được nuôi trong môi trường vô trùng cách ly bằng màng chuyên dụng. Phương pháp này ngăn chặn hoàn toàn tuyến trùng và mầm bệnh, đồng thời kiểm soát chính xác dinh dưỡng và độ ẩm để tối đa hóa hàm lượng hoạt chất. Giảm 80% lượng nước so với canh tác truyền thống và không sử dụng thuốc trừ sâu.",
+      "advantages": [
+        "Ngăn chặn hoàn toàn mầm bệnh và tuyến trùng bằng màng chuyên dụng",
+        "Giảm 80% lượng nước (hệ thống tưới chính xác)",
+        "Không thuốc trừ sâu — canh tác thân thiện môi trường 100%",
+        "Kiểm soát dinh dưỡng chính xác tối đa hóa hoạt chất",
+        "Sản xuất ổn định quanh năm (không phụ thuộc mùa vụ)"
+      ],
+      "comparisonTitle": "Canh tác truyền thống so với Canh tác ươm"
+    },
+    "comparison": {
+      "headers": [
+        "Hạng mục",
+        "Truyền thống",
+        "Canh tác ươm"
+      ],
+      "rows": [
+        [
+          "Môi trường",
+          "Ngoài trời hoặc nhà kính tiêu chuẩn",
+          "Môi trường cách ly vô trùng bằng màng"
+        ],
+        [
+          "Lượng nước",
+          "100% (cơ sở)",
+          "20% (giảm 80%)"
+        ],
+        [
+          "Thuốc trừ sâu",
+          "Cần thiết (kiểm soát sâu bệnh)",
+          "Không cần thiết (ngăn chặn hoàn toàn)"
+        ],
+        [
+          "Kiểm soát mầm bệnh",
+          "Hạn chế",
+          "Ngăn chặn 100%"
+        ],
+        [
+          "Hàm lượng hoạt chất",
+          "Tiêu chuẩn",
+          "Ginsenoside F2 gấp 800 lần"
+        ],
+        [
+          "Thời kỳ sản xuất",
+          "Theo mùa",
+          "Quanh năm"
+        ]
+      ]
+    },
+    "fertilizer": {
+      "eyebrow": "Công nghệ 2",
+      "title": "Phân bón sinh học biển từ cua",
+      "subtitle": "Phân bón hữu cơ gốc Chitin & Chitosan",
+      "description": "Chitin và chitosan được chiết xuất từ phụ phẩm cua đỏ (vỏ) từ bờ biển phía Đông Hàn Quốc, phân hủy hoàn toàn thành phân bón sinh học dạng lỏng và bột. Các loại phân bón này tăng cường miễn dịch cho cây trồng và thúc đẩy tổng hợp hoạt chất. Việc xử lý 4.500 tấn phụ phẩm cua hàng năm cũng góp phần vào tuần hoàn tài nguyên."
+    },
+    "ginsenoside": {
+      "eyebrow": "Kết quả đã chứng minh",
+      "title": "Kết quả phân tích Ginsenoside",
+      "subtitle": "Theo tiêu chuẩn Viện Nghiên cứu Thực phẩm Hàn Quốc",
+      "items": [
+        {
+          "crop": "Sinsaengssam (Mầm nhân sâm)",
+          "component": "Ginsenoside F2",
+          "multiplier": 800,
+          "unit": "lần"
+        },
+        {
+          "crop": "Sinsaeng Doraji",
+          "component": "Saponin",
+          "multiplier": 12,
+          "unit": "lần"
+        },
+        {
+          "crop": "Sinsaeng Tỏi",
+          "component": "Allicin",
+          "multiplier": 8,
+          "unit": "lần"
+        }
+      ],
+      "note": "* So với cây trồng canh tác thông thường. Dựa trên phân tích của Viện Nghiên cứu Thực phẩm Hàn Quốc."
+    },
+    "philosophy": {
+      "quote": "Hoàn thiện chu trình thiên nhiên bằng công nghệ",
+      "author": "— Giám đốc Lee Chun-gil",
+      "body": "Cua từ biển trở thành phân bón cho đất, và mầm cây được nuôi từ phân bón đó bảo vệ sức khỏe con người. Công nghệ của Elohim Bio tối ưu hóa chu trình tự nhiên này bằng khoa học để tạo ra những cây trồng chức năng tốt nhất."
+    }
+  },
+  "products": {
+    "meta": {
+      "title": "Sản phẩm | Elohim Bio",
+      "description": "Mầm Sinsaengssam, Doraji và Tỏi được trồng bằng canh tác ươm. Hàm lượng Ginsenoside F2 gấp 800 lần."
+    },
+    "hero": {
+      "eyebrow": "Sản phẩm",
+      "title": "Mầm chức năng\ntinh túy từ thiên nhiên",
+      "subtitle": "Sức khỏe thực sự nằm ở lá và thân, không phải ở rễ"
+    },
+    "sinsaengssam": {
+      "name": "Sinsaengssam (Mầm nhân sâm)",
+      "badge": "Bán chạy nhất",
+      "tagline": "Lựa chọn tối ưu cho sức khỏe gan, hỗ trợ chống ung thư và tăng cường miễn dịch",
+      "description": "Được trồng bằng canh tác ươm, Sinsaengssam chứa hàm lượng Ginsenoside F2 trong lá và thân cao gấp hơn 800 lần so với rễ nhân sâm thường. Canh tác không thuốc trừ sâu trong môi trường vô trùng, có thể ăn sống an toàn.",
+      "keyComponent": "Ginsenoside F2",
+      "multiplier": "800 lần",
+      "benefits": [
+        "Bảo vệ gan (thúc đẩy tái tạo tế bào gan)",
+        "Đặc tính chống ung thư (ức chế sự phát triển tế bào ung thư)",
+        "Tăng cường miễn dịch (kích hoạt tế bào NK)",
+        "Tác dụng chống oxy hóa (loại bỏ gốc tự do)",
+        "Hỗ trợ điều hòa đường huyết"
+      ],
+      "howToEat": "Rửa sạch ăn sống, hoặc dùng trong salad, sinh tố, hoặc cuốn. Lượng khuyến nghị hàng ngày: 5-10 mầm.",
+      "storage": "Bảo quản lạnh (2-5°C), sử dụng trong vòng 7 ngày sau thu hoạch",
+      "certification": "Đã hoàn thành phân tích tại Viện Nghiên cứu Thực phẩm Hàn Quốc"
+    },
+    "doraji": {
+      "name": "Sinsaeng Doraji (Mầm cát cánh)",
+      "tagline": "Giải pháp tự nhiên cho sức khỏe phế quản và hô hấp",
+      "description": "Sinsaeng Doraji được trồng bằng canh tác ươm chứa hàm lượng saponin cao gấp 12 lần so với cát cánh trồng thông thường. Lá non và thân được thu hoạch với vị nhẹ, mềm, ngon ngay cả khi ăn sống.",
+      "keyComponent": "Saponin",
+      "multiplier": "12 lần",
+      "benefits": [
+        "Sức khỏe phế quản & hô hấp (thúc đẩy tống đờm)",
+        "Tác dụng chống viêm (giảm viêm mãn tính)",
+        "Tăng cường miễn dịch",
+        "Hỗ trợ điều hòa đường huyết",
+        "Tác dụng chống oxy hóa"
+      ],
+      "howToEat": "Ăn sống, hoặc chế biến thành món phụ, trà, hoặc nước ép. Lượng khuyến nghị hàng ngày: 50-100g.",
+      "storage": "Bảo quản lạnh (2-5°C), sử dụng trong vòng 5 ngày sau thu hoạch",
+      "certification": "Đã hoàn thành phân tích tại Viện Nghiên cứu Thực phẩm Hàn Quốc"
+    },
+    "garlic": {
+      "name": "Sinsaeng Tỏi (Mầm tỏi)",
+      "tagline": "Thực phẩm kháng khuẩn cho sức khỏe tim mạch và miễn dịch",
+      "description": "Sinsaeng Tỏi được trồng bằng canh tác ươm chứa hàm lượng allicin cao gấp 8 lần so với tỏi thường. Thu hoạch ở giai đoạn mầm, có vị cay nhẹ và kết cấu giòn.",
+      "keyComponent": "Allicin",
+      "multiplier": "8 lần",
+      "benefits": [
+        "Tác dụng kháng khuẩn & kháng virus mạnh mẽ",
+        "Sức khỏe tim mạch (điều hòa cholesterol)",
+        "Tăng cường miễn dịch",
+        "Tác dụng chống oxy hóa",
+        "Phục hồi mệt mỏi"
+      ],
+      "howToEat": "Ăn sống, hoặc chế biến thành salad trộn gia vị, xào, hoặc dưa muối. Lượng khuyến nghị hàng ngày: 30-50g.",
+      "storage": "Bảo quản lạnh (2-5°C), sử dụng trong vòng 7 ngày sau thu hoạch",
+      "certification": "Đã hoàn thành phân tích tại Viện Nghiên cứu Thực phẩm Hàn Quốc"
+    },
+    "whySprouts": {
+      "eyebrow": "Tại sao chọn mầm?",
+      "title": "Dinh dưỡng thực sự nằm ở\nlá và thân, không phải ở rễ",
+      "description": "Cây trồng tổng hợp hoạt chất tối đa trong giai đoạn sinh trưởng mạnh nhất, 7-15 ngày sau nảy mầm. Sản phẩm mầm của Elohim Bio được thu hoạch trong giai đoạn vàng này để đạt mật độ dinh dưỡng cao nhất.",
+      "items": [
+        {
+          "title": "Năng lượng tăng trưởng cô đặc",
+          "desc": "Mầm tổng hợp hoạt chất bùng nổ khi chuyển đổi năng lượng tích trữ trong rễ thành sự phát triển của lá."
+        },
+        {
+          "title": "Tỷ lệ hấp thụ 99%",
+          "desc": "Mô mầm non mềm cho phép tiêu hóa và hấp thụ nhanh chóng, tối đa hóa khả dụng sinh học."
+        },
+        {
+          "title": "Ăn sống an toàn",
+          "desc": "Được trồng trong môi trường ươm vô trùng — không thuốc trừ sâu, không kim loại nặng, an toàn để ăn sống."
+        }
+      ]
+    }
+  },
+  "business": {
+    "meta": {
+      "title": "Kinh doanh | Elohim Bio",
+      "description": "Trang trại thông minh, Nhà máy phân bón và Trung tâm chữa lành — hệ sinh thái nông nghiệp sinh học thân thiện môi trường trị giá 100 tỷ KRW."
+    },
+    "hero": {
+      "eyebrow": "Kinh doanh",
+      "title": "Ba trụ cột xây dựng\nhệ sinh thái nông nghiệp sinh học thân thiện môi trường",
+      "subtitle": "Trang trại thông minh · Nhà máy phân bón · Trung tâm chữa lành — tất cả kết nối"
+    },
+    "smartfarm": {
+      "eyebrow": "Kinh doanh 1",
+      "title": "Trang trại thông minh",
+      "description": "Hệ thống điều khiển khí hậu tự động IoT quản lý chính xác nhiệt độ, độ ẩm, tưới tiêu và ánh sáng. Sản xuất ổn định quanh năm các loại cây trồng chức năng cao trên 10 cơ sở, mỗi cơ sở 400 pyeong.",
+      "specs": [
+        {
+          "label": "Quy mô cơ sở",
+          "value": "400 pyeong × 10 đơn vị"
+        },
+        {
+          "label": "Cây trồng",
+          "value": "Sinsaengssam, Doraji, Tỏi"
+        },
+        {
+          "label": "Hệ thống điều khiển",
+          "value": "Tự động hóa IoT (nhiệt độ, độ ẩm, tưới tiêu, ánh sáng)"
+        },
+        {
+          "label": "Sản xuất",
+          "value": "Quanh năm, không gián đoạn"
+        }
+      ]
+    },
+    "factory": {
+      "eyebrow": "Kinh doanh 2",
+      "title": "Nhà máy phân bón",
+      "description": "Phân hủy hoàn toàn phụ phẩm cua đỏ bờ biển phía Đông thành phân bón sinh học dạng lỏng và bột. Vận hành nhà máy công suất 4.500 tấn/năm, góp phần vào nền kinh tế tuần hoàn tài nguyên.",
+      "specs": [
+        {
+          "label": "Công suất hàng năm",
+          "value": "4.500 tấn"
+        },
+        {
+          "label": "Nguyên liệu thô",
+          "value": "Phụ phẩm cua bờ biển phía Đông (chitin/chitosan)"
+        },
+        {
+          "label": "Sản phẩm",
+          "value": "Phân bón dạng lỏng · Phân bón dạng bột"
+        },
+        {
+          "label": "Tác động môi trường",
+          "value": "Tuần hoàn tài nguyên phụ phẩm 100%"
+        }
+      ]
+    },
+    "healing": {
+      "eyebrow": "Kinh doanh 3",
+      "title": "Trung tâm chữa lành",
+      "description": "Không gian sức khỏe kết hợp ẩm thực mầm chức năng với môi trường tự nhiên Yangyang. Dẫn đầu du lịch sức khỏe với chương trình lưu trú, trải nghiệm nông trại và các chương trình sức khỏe.",
+      "specs": [
+        {
+          "label": "Địa điểm",
+          "value": "Yangyang-gun, tỉnh Gangwon"
+        },
+        {
+          "label": "Chương trình",
+          "value": "Lưu trú · Trải nghiệm nông trại · Ẩm thực sức khỏe"
+        },
+        {
+          "label": "Đặc sản",
+          "value": "Ẩm thực mầm chức năng"
+        },
+        {
+          "label": "Mục tiêu",
+          "value": "Khai trương năm 2026"
+        }
+      ]
+    },
+    "investment": {
+      "eyebrow": "Điểm nổi bật đầu tư",
+      "title": "Doanh nghiệp có tiềm năng tăng trưởng đã được chứng minh",
+      "items": [
+        {
+          "value": "₩100 tỷ+",
+          "label": "Tổng quy mô kinh doanh"
+        },
+        {
+          "value": "₩40 tỷ",
+          "label": "Đầu tư Trang trại thông minh"
+        },
+        {
+          "value": "₩30 tỷ",
+          "label": "Đầu tư Nhà máy phân bón"
+        },
+        {
+          "value": "₩30 tỷ",
+          "label": "Đầu tư Trung tâm chữa lành"
+        }
+      ]
+    },
+    "roadmap": {
+      "eyebrow": "Lộ trình",
+      "title": "Kế hoạch tăng trưởng",
+      "items": [
+        {
+          "phase": "Giai đoạn 1 (2024–2025)",
+          "title": "Nền tảng",
+          "desc": "Thành lập công ty, 10 cơ sở trang trại thông minh, vận hành thử nhà máy phân bón"
+        },
+        {
+          "phase": "Giai đoạn 2 (2025–2026)",
+          "title": "Mở rộng",
+          "desc": "20 cơ sở trang trại thông minh, sản xuất phân bón hàng loạt, xây dựng trung tâm chữa lành"
+        },
+        {
+          "phase": "Giai đoạn 3 (2026–2027)",
+          "title": "Thâm nhập thị trường",
+          "desc": "Phân phối trong nước, xuất khẩu sang Nhật Bản & Đông Nam Á, khai trương trung tâm chữa lành"
+        },
+        {
+          "phase": "Giai đoạn 4 (2028–)",
+          "title": "Mở rộng toàn cầu",
+          "desc": "Thị trường Trung Quốc & Trung Đông, xuất khẩu công nghệ trang trại thông minh"
+        }
+      ]
+    },
+    "irCta": {
+      "title": "Chào mừng nhà đầu tư",
+      "description": "Khám phá chi tiết tiềm năng tăng trưởng và kế hoạch kinh doanh của Elohim Bio.",
+      "cta": "Đến trang Nhà đầu tư IR"
+    }
+  },
+  "ir": {
+    "meta": {
+      "title": "Nhà đầu tư IR | Elohim Bio",
+      "description": "Trang thông tin dành riêng cho nhà đầu tư của Elohim Bio."
+    },
+    "login": {
+      "title": "Trang dành riêng cho nhà đầu tư",
+      "subtitle": "Đăng nhập bằng thông tin được cấp bởi đại diện của chúng tôi",
+      "emailLabel": "Email",
+      "emailPlaceholder": "investor@example.com",
+      "passwordLabel": "Mật khẩu",
+      "loginBtn": "Đăng nhập",
+      "contactHint": "Chưa có tài khoản?",
+      "contactLink": "Liên hệ đại diện của chúng tôi",
+      "errorInvalid": "Email hoặc mật khẩu không hợp lệ.",
+      "errorNotAuthorized": "Bạn không có quyền truy cập IR. Vui lòng liên hệ đại diện của chúng tôi."
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Liên hệ | Elohim Bio",
+      "description": "Mua sản phẩm, đầu tư, hợp tác và đặt trải nghiệm — chúng tôi hoan nghênh mọi yêu cầu."
+    },
+    "hero": {
+      "eyebrow": "Liên hệ",
+      "title": "Liên hệ với chúng tôi\nBất cứ lúc nào",
+      "subtitle": "Từ tư vấn người tiêu dùng đến tư vấn đầu tư"
+    },
+    "form": {
+      "typeLabel": "Loại yêu cầu",
+      "typeConsumer": "Tư vấn sản phẩm cho người tiêu dùng",
+      "typeInvestor": "Tư vấn nhà đầu tư",
+      "typePartnership": "Hợp tác / B2B",
+      "typeExperience": "Đặt trải nghiệm nông trại",
+      "typeOther": "Khác",
+      "nameLabel": "Họ tên",
+      "namePlaceholder": "Nguyễn Văn A",
+      "emailLabel": "Email",
+      "emailPlaceholder": "example@email.com",
+      "phoneLabel": "Số điện thoại",
+      "phonePlaceholder": "+82-10-0000-0000",
+      "companyLabel": "Công ty (tùy chọn)",
+      "companyPlaceholder": "Tên công ty",
+      "messageLabel": "Nội dung",
+      "messagePlaceholder": "Vui lòng mô tả yêu cầu của bạn.",
+      "privacyLabel": "Tôi đồng ý với việc thu thập và sử dụng thông tin cá nhân.",
+      "privacyLink": "Xem Chính sách bảo mật",
+      "submitBtn": "Gửi yêu cầu",
+      "submitting": "Đang gửi...",
+      "successTitle": "Đã gửi yêu cầu",
+      "successMessage": "Chúng tôi sẽ phản hồi trong vòng 1-2 ngày làm việc.",
+      "errorMessage": "Đã xảy ra lỗi. Vui lòng thử lại sau.",
+      "required": "Bắt buộc"
+    },
+    "info": {
+      "title": "Thông tin liên hệ",
+      "email": "info@elohimbio.com",
+      "location": "Yangyang-gun, tỉnh Gangwon, Hàn Quốc",
+      "responseTime": "Thời gian phản hồi trung bình: 1-2 ngày làm việc"
+    }
+  },
+  "board": {
+    "meta": {
+      "title": "Bảng tin | Elohim Bio",
+      "description": "Bảng tin Elohim Bio — Chia sẻ và tải xuống tài liệu tự do."
+    },
+    "title": "Bảng tin",
+    "subtitle": "Chia sẻ và tải xuống tài liệu tự do",
+    "writeBtn": "Viết bài",
+    "table": {
+      "number": "STT",
+      "title": "Tiêu đề",
+      "author": "Tác giả",
+      "date": "Ngày",
+      "views": "Lượt xem",
+      "files": "Tệp"
+    },
+    "empty": "Chưa có bài viết nào.",
+    "pagination": {
+      "prev": "Trước",
+      "next": "Tiếp"
+    },
+    "write": {
+      "title": "Bài viết mới",
+      "titleLabel": "Tiêu đề",
+      "titlePlaceholder": "Nhập tiêu đề",
+      "authorLabel": "Tác giả",
+      "authorPlaceholder": "Nhập tên của bạn",
+      "passwordLabel": "Mật khẩu (cần thiết để xóa)",
+      "passwordPlaceholder": "Ít nhất 4 ký tự",
+      "contentLabel": "Nội dung",
+      "contentPlaceholder": "Nhập nội dung",
+      "fileLabel": "Tệp đính kèm (tối đa 3 tệp, mỗi tệp 10MB)",
+      "fileBtn": "Chọn tệp",
+      "fileSelected": "tệp đã chọn",
+      "submitBtn": "Đăng bài",
+      "submitting": "Đang gửi...",
+      "cancelBtn": "Hủy",
+      "errorRequired": "Vui lòng điền đầy đủ các trường bắt buộc.",
+      "errorFileSize": "Mỗi tệp phải dưới 10MB.",
+      "errorFileCount": "Bạn có thể đính kèm tối đa 3 tệp.",
+      "errorSubmit": "Đã xảy ra lỗi. Vui lòng thử lại."
+    },
+    "detail": {
+      "backToList": "Quay lại danh sách",
+      "author": "Tác giả",
+      "date": "Ngày",
+      "views": "Lượt xem",
+      "files": "Tệp đính kèm",
+      "download": "Tải xuống",
+      "deleteBtn": "Xóa",
+      "deleteConfirm": "Bạn có chắc chắn muốn xóa bài viết này?",
+      "deletePasswordLabel": "Nhập mật khẩu",
+      "deletePasswordPlaceholder": "Mật khẩu đã dùng khi viết bài",
+      "deleteSubmit": "Xác nhận xóa",
+      "deleteCancel": "Hủy",
+      "deleteSuccess": "Bài viết đã được xóa.",
+      "deleteErrorPassword": "Mật khẩu không đúng.",
+      "deleteError": "Đã xảy ra lỗi khi xóa.",
+      "notFound": "Không tìm thấy bài viết."
+    }
+  },
+  "seo": {
+    "defaultTitle": "Elohim Bio | Mầm chức năng qua canh tác ươm",
+    "defaultDescription": "Sinsaengssam, Doraji và Tỏi chức năng cao với Ginsenoside F2 gấp 800 lần, được trồng bằng 30 năm công nghệ canh tác ươm và phân bón sinh học biển.",
+    "ogImageAlt": "Elohim Bio — Đổi mới nông nghiệp mầm chức năng"
+  }
+}
