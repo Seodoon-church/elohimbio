@@ -61,6 +61,12 @@ export async function generateMetadata({
     twitter: {
       card: 'summary_large_image',
     },
+    alternates: {
+      canonical: `https://elohimbio.com/${locale}`,
+      languages: Object.fromEntries(
+        routing.locales.map((l) => [l, `https://elohimbio.com/${l}`]),
+      ),
+    },
   };
 }
 
@@ -83,6 +89,24 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   const dir = RTL_LOCALES.includes(locale) ? 'rtl' : 'ltr';
+  const seo = messages.seo as Record<string, string> | undefined;
+
+  const organizationJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Elohim Bio',
+    alternateName: '엘로힘바이오',
+    url: 'https://elohimbio.com',
+    logo: 'https://elohimbio.com/images/logo/logo-circle.jpg',
+    description: seo?.defaultDescription ?? '',
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: '성주로 75',
+      addressLocality: '이천시',
+      addressRegion: '경기도',
+      addressCountry: 'KR',
+    },
+  };
 
   return (
     <html
@@ -91,6 +115,10 @@ export default async function LocaleLayout({
       className={`${inter.variable} ${playfair.variable} ${notoSansKR.variable} ${notoSerifKR.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col font-body">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+        />
         <NextIntlClientProvider messages={messages}>
           <Header />
           <div className="h-16 lg:h-20" />

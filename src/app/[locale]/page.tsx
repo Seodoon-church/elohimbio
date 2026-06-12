@@ -1,6 +1,30 @@
+import type { Metadata } from 'next';
 import { useTranslations } from 'next-intl';
+import { getMessages } from 'next-intl/server';
+import { routing } from '@/i18n/routing';
 import { Link } from '@/i18n/navigation';
 import Image from 'next/image';
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const messages = await getMessages({ locale });
+  const seo = messages.seo as Record<string, string>;
+  return {
+    title: seo?.defaultTitle,
+    description: seo?.defaultDescription,
+    openGraph: { title: seo?.defaultTitle, description: seo?.defaultDescription },
+    alternates: {
+      canonical: `https://elohimbio.com/${locale}`,
+      languages: Object.fromEntries(
+        routing.locales.map((l) => [l, `https://elohimbio.com/${l}`]),
+      ),
+    },
+  };
+}
 import { ScrollReveal } from '@/components/ui/ScrollReveal';
 import { CountUp } from '@/components/ui/CountUp';
 import { PotencyBar } from '@/components/ui/PotencyBar';

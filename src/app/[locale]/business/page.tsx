@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { useTranslations } from 'next-intl';
 import { getMessages } from 'next-intl/server';
+import { routing } from '@/i18n/routing';
 import Image from 'next/image';
 import { Link } from '@/i18n/navigation';
 import { Sprout, Factory, Heart, ArrowRight } from 'lucide-react';
@@ -17,6 +18,12 @@ export async function generateMetadata({
     title: meta?.title,
     description: meta?.description,
     openGraph: { title: meta?.title, description: meta?.description },
+    alternates: {
+      canonical: `https://elohimbio.com/${locale}/business`,
+      languages: Object.fromEntries(
+        routing.locales.map((l) => [l, `https://elohimbio.com/${l}/business`]),
+      ),
+    },
   };
 }
 

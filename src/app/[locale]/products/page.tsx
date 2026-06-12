@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { useTranslations } from 'next-intl';
 import { getMessages } from 'next-intl/server';
+import { routing } from '@/i18n/routing';
 import Image from 'next/image';
 import { Link } from '@/i18n/navigation';
 import { Check, Leaf, Droplets, ShieldCheck, ArrowRight } from 'lucide-react';
@@ -17,6 +18,12 @@ export async function generateMetadata({
     title: meta?.title,
     description: meta?.description,
     openGraph: { title: meta?.title, description: meta?.description },
+    alternates: {
+      canonical: `https://elohimbio.com/${locale}/products`,
+      languages: Object.fromEntries(
+        routing.locales.map((l) => [l, `https://elohimbio.com/${l}/products`]),
+      ),
+    },
   };
 }
 
@@ -41,6 +48,36 @@ const PRODUCTS = [
   },
 ] as const;
 
+const productJsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Product',
+      name: 'Sprout Ginseng (새싹삼)',
+      description: 'Incubator-farmed sprout ginseng with 800x Ginsenoside F2 content compared to conventional ginseng.',
+      brand: { '@type': 'Brand', name: 'Elohim Bio' },
+      category: 'Functional Agriculture Products',
+      url: 'https://elohimbio.com/ko/products',
+    },
+    {
+      '@type': 'Product',
+      name: 'Sprout Bellflower Root (신생 도라지)',
+      description: 'Incubator-farmed sprout bellflower root for respiratory health, grown with marine bio-fertilizer.',
+      brand: { '@type': 'Brand', name: 'Elohim Bio' },
+      category: 'Functional Agriculture Products',
+      url: 'https://elohimbio.com/ko/products',
+    },
+    {
+      '@type': 'Product',
+      name: 'Sprout Garlic (신생 마늘)',
+      description: 'Incubator-farmed sprout garlic for cardiovascular health, enhanced with red crab bio-fertilizer.',
+      brand: { '@type': 'Brand', name: 'Elohim Bio' },
+      category: 'Functional Agriculture Products',
+      url: 'https://elohimbio.com/ko/products',
+    },
+  ],
+};
+
 export default function ProductsPage() {
   const t = useTranslations();
 
@@ -49,6 +86,10 @@ export default function ProductsPage() {
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }}
+      />
       {/* Hero */}
       <section className="relative py-20 md:py-28 text-white overflow-hidden">
         <Image
